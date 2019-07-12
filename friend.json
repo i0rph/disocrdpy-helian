@@ -1,0 +1,1608 @@
+{
+	"Zimmy#8930": [
+		{
+			"platform": "4",
+			"platform_str": "Taiwan",
+			"nick": "Flamii",
+			"uid": "384956",
+			"lang": "en"
+		}
+	],
+	"Teady#6335": [
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "Teady",
+			"uid": "39004",
+			"lang": "ko"
+		}
+	],
+	"T.yutaka#4572": [
+		{
+			"platform": "1",
+			"platform_str": "ビリビリ0",
+			"nick": "天涯豊",
+			"uid": "484311",
+			"lang": "jp"
+		}
+	],
+	"Eris#6753": [
+		{
+			"platform": "2",
+			"platform_str": "DigitalSky0",
+			"nick": "itsYuuki",
+			"uid": "755507",
+			"lang": "en"
+		}
+	],
+	"White_Kaibeu#8155": [
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "KAYEEBE",
+			"uid": "1290779",
+			"lang": "ko"
+		}
+	],
+	"나야뜨#2412": [
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "나야뜨",
+			"uid": "157360",
+			"lang": "ko"
+		}
+	],
+	"머싀#5574": [
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "머싀",
+			"uid": "1303439",
+			"lang": "ko"
+		},
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "머싀",
+			"uid": "1303439",
+			"lang": "ko"
+		}
+	],
+	"Hyarael#7550": [
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "Hyarael",
+			"uid": "6520",
+			"lang": "ko"
+		}
+	],
+	"주르#2126": [
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "주르",
+			"uid": "#2126",
+			"lang": "ko"
+		},
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "쭈르",
+			"uid": "282543",
+			"lang": "ko"
+		}
+	],
+	"-Helix-#8359": [
+		{
+			"platform": "1",
+			"platform_str": "bilibili0",
+			"nick": "Helix",
+			"uid": "732755",
+			"lang": "en"
+		}
+	],
+	"inscius(ohy)#8029": [
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "ohy",
+			"uid": "26761",
+			"lang": "ko"
+		}
+	],
+	"Lei#3408": [
+		{
+			"platform": "3",
+			"platform_str": "Korea",
+			"nick": "valesk",
+			"uid": "1490369",
+			"lang": "en"
+		}
+	],
+	"ottodokto#9322": [
+		{
+			"platform": "2",
+			"platform_str": "DigitalSky0",
+			"nick": "ottodokto",
+			"uid": "843868",
+			"lang": "en"
+		}
+	],
+	"Cats_Sky#4983": [
+		{
+			"platform": "4",
+			"platform_str": "Taiwan",
+			"nick": "Cryon0518",
+			"uid": "363342",
+			"lang": "en"
+		},
+		{
+			"platform": "4",
+			"platform_str": "Taiwan",
+			"nick": "Cryon0518",
+			"uid": "363342",
+			"lang": "en"
+		}
+	],
+	"YJ#1791": [
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "치킨인것이다",
+			"uid": "299911",
+			"lang": "ko"
+		},
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "치킨인것이닭",
+			"uid": "299911",
+			"lang": "ko"
+		},
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "치킨인것이닭",
+			"uid": "299911",
+			"lang": "ko"
+		}
+	],
+	"XD#2595": [
+		{
+			"platform": "2",
+			"platform_str": "운영사0",
+			"nick": "s10.XD100",
+			"uid": "469298",
+			"lang": "ko"
+		}
+	],
+	"잉여#3310": [
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "zwei",
+			"uid": "93422",
+			"lang": "ko"
+		}
+	],
+	"cocodong3#6262": [
+		{
+			"platform": "1",
+			"platform_str": "비리비리0",
+			"nick": "cocodong3",
+			"uid": "374518",
+			"lang": "ko"
+		}
+	],
+	"어령#3938": [
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "그새1끼",
+			"uid": "748655",
+			"lang": "ko"
+		}
+	],
+	"Kilyu Sina#9231": [
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "키류신아",
+			"uid": "114448",
+			"lang": "ko"
+		}
+	],
+	"크로체#6004": [
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "크로체",
+			"uid": "234507",
+			"lang": "ko"
+		}
+	],
+	"갬블#0788": [
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "kasicu",
+			"uid": "794013",
+			"lang": "ko"
+		}
+	],
+	"月見空#0959": [
+		{
+			"platform": "4",
+			"platform_str": "台湾",
+			"nick": "月見空",
+			"uid": "155756",
+			"lang": "jp"
+		}
+	],
+	"다리에불피워#1738": [
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "다리에불피워",
+			"uid": "98233",
+			"lang": "ko"
+		}
+	],
+	"소마#7017": [
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "/winfo 뚀땽",
+			"uid": "/winfo 1544684 뚀땽",
+			"lang": "ko"
+		},
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "y",
+			"uid": "/winfo 1544684 뚀땽",
+			"lang": "ko"
+		},
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "/winfo 1544684 뚀땽",
+			"uid": "3",
+			"lang": "ko"
+		},
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "뚀땽",
+			"uid": "1544684",
+			"lang": "ko"
+		}
+	],
+	"creeper0809#0998": [
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "creeper0809",
+			"uid": "825694",
+			"lang": "ko"
+		}
+	],
+	"Pavois#5271": [
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "pavois",
+			"uid": "58868",
+			"lang": "ko"
+		}
+	],
+	"KAEV#1822": [
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "KAEV",
+			"uid": "28679",
+			"lang": "ko"
+		}
+	],
+	"ALPHA0289#5437": [
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "ALPHA0289",
+			"uid": "165625",
+			"lang": "ko"
+		}
+	],
+	"Sugar Cube#4738": [
+		{
+			"platform": "1",
+			"platform_str": "bilibili0",
+			"nick": "s4.Yuisis",
+			"uid": "685959",
+			"lang": "en"
+		}
+	],
+	"Twilight_Drake#3481": [
+		{
+			"platform": "4",
+			"platform_str": "Taiwan",
+			"nick": "RumiaKun",
+			"uid": "474271",
+			"lang": "en"
+		}
+	],
+	"Vannalicious#7211": [
+		{
+			"platform": "1",
+			"platform_str": "bilibili3",
+			"nick": "vanna",
+			"uid": "496439",
+			"lang": "en"
+		}
+	],
+	"숨덕#6996": [
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "나니소레",
+			"uid": "628211",
+			"lang": "ko"
+		}
+	],
+	"Hikico_#2352": [
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "Hikico",
+			"uid": "69167",
+			"lang": "ko"
+		}
+	],
+	"Zeder-K#7003": [
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "아리스티어",
+			"uid": "55666",
+			"lang": "ko"
+		}
+	],
+	"TunerAineree#4285": [
+		{
+			"platform": "1",
+			"platform_str": "bilibili0",
+			"nick": "iamablocker",
+			"uid": "725172",
+			"lang": "en"
+		}
+	],
+	"Sniree#1270": [
+		{
+			"platform": "3",
+			"platform_str": "Korea",
+			"nick": "Sniree",
+			"uid": "98566",
+			"lang": "en"
+		},
+		{
+			"platform": "3",
+			"platform_str": "Korea",
+			"nick": "Sniree",
+			"uid": "98566",
+			"lang": "en"
+		}
+	],
+	"충성충성^^7#8568": [
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "flowerbiang01",
+			"uid": "1622516",
+			"lang": "ko"
+		}
+	],
+	"すみれ#0461": [
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "리리이",
+			"uid": "57611",
+			"lang": "ko"
+		}
+	],
+	"KIA#8286": [
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "KIAWTF",
+			"uid": "797440",
+			"lang": "ko"
+		}
+	],
+	"모히토#5799": [
+		{
+			"platform": "1",
+			"platform_str": "비리비리0",
+			"nick": "Mojito",
+			"uid": "498090",
+			"lang": "ko"
+		}
+	],
+	"ΙΜΔGΙΠΞ#3953": [
+		{
+			"platform": "1",
+			"platform_str": "비리비리0",
+			"nick": "Imagine",
+			"uid": "443704",
+			"lang": "ko"
+		}
+	],
+	"Li#7108": [
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "레시얀",
+			"uid": "669080",
+			"lang": "ko"
+		},
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "레시얀",
+			"uid": "669080",
+			"lang": "ko"
+		}
+	],
+	"레모#7346": [
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "마이나",
+			"uid": "11866",
+			"lang": "ko"
+		},
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "마이나",
+			"uid": "11866",
+			"lang": "ko"
+		}
+	],
+	"GiLLKorea#9671": [
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "흥행실패",
+			"uid": "228381",
+			"lang": "ko"
+		},
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "흥행성공",
+			"uid": "228381",
+			"lang": "ko"
+		}
+	],
+	"No. 7 키사라기 신타로#3138": [
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "지나가는닝겐",
+			"uid": "몰라",
+			"lang": "ko"
+		}
+	],
+	"IJN_Yura#1866": [
+		{
+			"platform": "1",
+			"platform_str": "bilibili0",
+			"nick": "Astiryel",
+			"uid": "727129",
+			"lang": "en"
+		}
+	],
+	"GigasXG#8960": [
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "GigasXG",
+			"uid": "16674",
+			"lang": "ko"
+		},
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "GigasXG",
+			"uid": "16674",
+			"lang": "ko"
+		}
+	],
+	"Freiheit#3816": [
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "Randgriz",
+			"uid": "22728",
+			"lang": "ko"
+		}
+	],
+	"hoodpilot#0039": [
+		{
+			"platform": "2",
+			"platform_str": "운영사0",
+			"nick": "hoodpilot",
+			"uid": "405530",
+			"lang": "ko"
+		}
+	],
+	"짠주#1473": [
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "JJJu",
+			"uid": "655239",
+			"lang": "ko"
+		}
+	],
+	"TRIGGER★HAPPY#1493": [
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "N142857",
+			"uid": "1276163",
+			"lang": "ko"
+		}
+	],
+	"SANJI#3579": [
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "Eila",
+			"uid": "16764",
+			"lang": "ko"
+		}
+	],
+	"BOMB#1322": [
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "BOMB",
+			"uid": "436014",
+			"lang": "ko"
+		}
+	],
+	"The world#9435": [
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "소우에이",
+			"uid": "73013",
+			"lang": "ko"
+		}
+	],
+	"Fascination_Misdirection#3990": [
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "leehi2010",
+			"uid": "366887",
+			"lang": "ko"
+		}
+	],
+	"songmax#2660": [
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "songmax",
+			"uid": "498336",
+			"lang": "ko"
+		},
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "songmax",
+			"uid": "498336",
+			"lang": "ko"
+		}
+	],
+	"24/7 lofi hip hop radio#9602": [
+		{
+			"platform": "3",
+			"platform_str": "Korea",
+			"nick": "Harekaze",
+			"uid": "1135922",
+			"lang": "en"
+		}
+	],
+	"ec.lupus#1260": [
+		{
+			"platform": "4",
+			"platform_str": "台湾",
+			"nick": "eclupus",
+			"uid": "498208",
+			"lang": "jp"
+		}
+	],
+	"Rao-Nyan#1488": [
+		{
+			"platform": "1",
+			"platform_str": "bilibili0",
+			"nick": "s5.RaoNyan",
+			"uid": "689604",
+			"lang": "en"
+		}
+	],
+	"Scathach#1597": [
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "CZ2018",
+			"uid": "1613147",
+			"lang": "ko"
+		},
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "CZ2018",
+			"uid": "1613147",
+			"lang": "ko"
+		}
+	],
+	"『響』#3929": [
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "HiAna",
+			"uid": "379168",
+			"lang": "ko"
+		}
+	],
+	"NuclearWinter#0141": [
+		{
+			"platform": "4",
+			"platform_str": "Taiwan",
+			"nick": "SovietBadger",
+			"uid": "uh",
+			"lang": "en"
+		}
+	],
+	"첼시조아#3871": [
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "첼시조아",
+			"uid": "1150934",
+			"lang": "ko"
+		}
+	],
+	"우유#9600": [
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "DVAmoi",
+			"uid": "254862",
+			"lang": "ko"
+		},
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "Dvamol",
+			"uid": "253862",
+			"lang": "ko"
+		},
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "DVAmoi",
+			"uid": "254862",
+			"lang": "ko"
+		}
+	],
+	"루인c#3450": [
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "저기요",
+			"uid": "55860",
+			"lang": "ko"
+		},
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "저기요",
+			"uid": "55860",
+			"lang": "ko"
+		}
+	],
+	"코로고로#1428": [
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "재훈",
+			"uid": "141874",
+			"lang": "ko"
+		}
+	],
+	"wrongdoer#0260": [
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "wrongdoer",
+			"uid": "35738",
+			"lang": "ko"
+		},
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "wrongdoer",
+			"uid": "35738",
+			"lang": "ko"
+		}
+	],
+	"현 중1 경규오(슈비의 남동생)#1963": [
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "경규오",
+			"uid": "513622",
+			"lang": "ko"
+		}
+	],
+	"숨덕#0001": [
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "나니소레",
+			"uid": "628211",
+			"lang": "ko"
+		}
+	],
+	"무넝#7025": [
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "무넝씨",
+			"uid": "831219",
+			"lang": "ko"
+		}
+	],
+	"리엔#9298": [
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "LeeEnisdead",
+			"uid": "173072",
+			"lang": "ko"
+		}
+	],
+	"은여우#1611": [
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "별별루나",
+			"uid": "133341",
+			"lang": "ko"
+		}
+	],
+	"Unity|战场舞者（steven)#7892": [
+		{
+			"platform": "2",
+			"platform_str": "DigitalSky0",
+			"nick": "战场舞者",
+			"uid": "595269",
+			"lang": "en"
+		}
+	],
+	"Normell#6577": [
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "Normell",
+			"uid": "253259",
+			"lang": "ko"
+		}
+	],
+	"storyline#6297": [
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "스토리라인",
+			"uid": "350712",
+			"lang": "ko"
+		}
+	],
+	"Varco[pj]n#1868": [
+		{
+			"platform": "1",
+			"platform_str": "bilibili0",
+			"nick": "林杰延",
+			"uid": "727244",
+			"lang": "en"
+		}
+	],
+	"Ein#4312": [
+		{
+			"platform": "1",
+			"platform_str": "bilibili0",
+			"nick": "Einclad",
+			"uid": "381001",
+			"lang": "en"
+		}
+	],
+	"yoyo#1111": [
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "요ㅡ요",
+			"uid": "458831",
+			"lang": "ko"
+		},
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "요ㅡ요",
+			"uid": "458831",
+			"lang": "ko"
+		}
+	],
+	"루먀봇#7908": [
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "루먀봇",
+			"uid": "몰라",
+			"lang": "ko"
+		}
+	],
+	"전수일#5951": [
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "히옷스",
+			"uid": "34289",
+			"lang": "ko"
+		}
+	],
+	"Jazzer#5810": [
+		{
+			"platform": "4",
+			"platform_str": "Taiwan",
+			"nick": "Jazzer",
+			"uid": "685409",
+			"lang": "en"
+		},
+		{
+			"platform": "4",
+			"platform_str": "Taiwan",
+			"nick": "Jazzer",
+			"uid": "685409",
+			"lang": "en"
+		}
+	],
+	"Marco#3978": [
+		{
+			"platform": "4",
+			"platform_str": "Taiwan",
+			"nick": "Marcolino",
+			"uid": "16489",
+			"lang": "en"
+		}
+	],
+	"Ares²ᅚ✘🎗#2375": [
+		{
+			"platform": "1",
+			"platform_str": "비리비리0",
+			"nick": "아레스",
+			"uid": "415202",
+			"lang": "ko"
+		}
+	],
+	"Yande.re#0197": [
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "얀대리",
+			"uid": "425402",
+			"lang": "ko"
+		}
+	],
+	"大卫大胃大为#2346": [
+		{
+			"platform": "2",
+			"platform_str": "DigitalSky2",
+			"nick": "大卫大胃大为",
+			"uid": "391574",
+			"lang": "en"
+		}
+	],
+	"Bledheg#0813": [
+		{
+			"platform": "1",
+			"platform_str": "bilibili0",
+			"nick": "aRzeKun",
+			"uid": "764523",
+			"lang": "en"
+		}
+	],
+	"Endevil#1920": [
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "Endevil",
+			"uid": "750157",
+			"lang": "ko"
+		},
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "Endevil",
+			"uid": "750157",
+			"lang": "ko"
+		}
+	],
+	"JollyPizza#9919": [
+		{
+			"platform": "4",
+			"platform_str": "Taiwan",
+			"nick": "Jollypizza",
+			"uid": "578128",
+			"lang": "en"
+		},
+		{
+			"platform": "4",
+			"platform_str": "Taiwan",
+			"nick": "JollyPizza",
+			"uid": "578128",
+			"lang": "en"
+		}
+	],
+	"ヒルシカ#3293": [
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "SuPacaZ",
+			"uid": "509985",
+			"lang": "ko"
+		}
+	],
+	"가상공간#1967": [
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "glory",
+			"uid": "89133",
+			"lang": "ko"
+		}
+	],
+	"히비키(dHIBIKIb)#0994": [
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "HIBIKI",
+			"uid": "30919",
+			"lang": "ko"
+		}
+	],
+	"위정#8811": [
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "위정",
+			"uid": "79374",
+			"lang": "ko"
+		}
+	],
+	"CFM_Hyunkim0303#5383": [
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "제레김",
+			"uid": "351711",
+			"lang": "ko"
+		}
+	],
+	"𝓐̋lͥ̽ͦ̒̐̀t͆̈́ͪ̃̈ͣ͗͗e̐ͥr#9830": [
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "janne",
+			"uid": "465999",
+			"lang": "ko"
+		}
+	],
+	"Cardes#3003": [
+		{
+			"platform": "1",
+			"platform_str": "bilibili0",
+			"nick": "Cardes",
+			"uid": "723162",
+			"lang": "en"
+		},
+		{
+			"platform": "5",
+			"platform_str": "Japan",
+			"nick": "Cardes",
+			"uid": "5647",
+			"lang": "en"
+		}
+	],
+	"ハルナ#1425": [
+		{
+			"platform": "1",
+			"platform_str": "bilibili0",
+			"nick": "SaSa",
+			"uid": "752887",
+			"lang": "en"
+		}
+	],
+	"노무땅#4995": [
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "노미라이",
+			"uid": "272073",
+			"lang": "ko"
+		}
+	],
+	"KIA#7563": [
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "KIAWTF",
+			"uid": "797440",
+			"lang": "ko"
+		},
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "KIAWTF",
+			"uid": "797440",
+			"lang": "ko"
+		}
+	],
+	"Fistful_Of_Games#5483": [
+		{
+			"platform": "1",
+			"platform_str": "bilibili0",
+			"nick": "大白眼月",
+			"uid": "5719",
+			"lang": "en"
+		},
+		{
+			"platform": "1",
+			"platform_str": "bilibili0",
+			"nick": "s7.大白偃月",
+			"uid": "553276",
+			"lang": "en"
+		},
+		{
+			"platform": "1",
+			"platform_str": "bilibili0",
+			"nick": "s7.大白偃月",
+			"uid": "553276",
+			"lang": "en"
+		}
+	],
+	"buns#0001": [
+		{
+			"platform": "2",
+			"platform_str": "DigitalSky2",
+			"nick": "Bun",
+			"uid": "31633",
+			"lang": "en"
+		}
+	],
+	"joon#7972": [
+		{
+			"platform": "2",
+			"platform_str": "DigitalSky2",
+			"nick": "June10",
+			"uid": "33662",
+			"lang": "en"
+		}
+	],
+	"조지#2749": [
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "쌉조지",
+			"uid": "1735994",
+			"lang": "ko"
+		}
+	],
+	"ㄱ.ㅅㅈㅁ#4735": [
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "cocoroach13",
+			"uid": "1734956",
+			"lang": "ko"
+		}
+	],
+	"kgapexiu4a#0142": [
+		{
+			"platform": "4",
+			"platform_str": "台湾",
+			"nick": "kgapex",
+			"uid": "558280",
+			"lang": "jp"
+		}
+	],
+	"sidennkaini#4905": [
+		{
+			"platform": "4",
+			"platform_str": "台湾",
+			"nick": "sidennkaini",
+			"uid": "546943",
+			"lang": "jp"
+		}
+	],
+	"Jqas#0835": [
+		{
+			"platform": "2",
+			"platform_str": "DigitalSky2",
+			"nick": "Jqas",
+			"uid": "163800",
+			"lang": "en"
+		}
+	],
+	"미쳐버린세상#4690": [
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "/미쳐버린세상",
+			"uid": "/898566",
+			"lang": "ko"
+		}
+	],
+	"( ͡° ͜ʖ ͡°)#6620": [
+		{
+			"platform": "2",
+			"platform_str": "DigitalSky2",
+			"nick": "Wan_Teitoku",
+			"uid": "15464",
+			"lang": "en"
+		}
+	],
+	"RajeL#1642": [
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "Rajel",
+			"uid": "726842",
+			"lang": "ko"
+		}
+	],
+	"KORIF#5670": [
+		{
+			"platform": "2",
+			"platform_str": "운영사2",
+			"nick": "KORIF",
+			"uid": "60575",
+			"lang": "ko"
+		},
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "KORIF",
+			"uid": "60575",
+			"lang": "ko"
+		}
+	],
+	"PartTimeLordJesus!#1760": [
+		{
+			"platform": "1",
+			"platform_str": "bilibili0",
+			"nick": "s6.snyper",
+			"uid": "701114",
+			"lang": "en"
+		}
+	],
+	"ST AR-15(ㅇㅅㅇ)#3449": [
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "im 죠죠러",
+			"uid": "1565364",
+			"lang": "ko"
+		}
+	],
+	"That One Noun(?)#0704": [
+		{
+			"platform": "2",
+			"platform_str": "DigitalSky1",
+			"nick": "Cederno",
+			"uid": "65253",
+			"lang": "en"
+		}
+	],
+	"anomy_asw#4949": [
+		{
+			"platform": "2",
+			"platform_str": "DigitalSky2",
+			"nick": "anomyasw",
+			"uid": "158697",
+			"lang": "en"
+		}
+	],
+	"susoka#5931": [
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "수소화",
+			"uid": "934575",
+			"lang": "ko"
+		},
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "수소화",
+			"uid": "934575",
+			"lang": "ko"
+		}
+	],
+	"たきもと ひふみ#0591": [
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "착한상자",
+			"uid": "564333",
+			"lang": "ko"
+		}
+	],
+	"AlephNull#0868": [
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "AlephNull",
+			"uid": "1108777",
+			"lang": "ko"
+		}
+	],
+	"HReimu#8278": [
+		{
+			"platform": "1",
+			"platform_str": "비리비리0",
+			"nick": "s7.HReimu",
+			"uid": "395524",
+			"lang": "ko"
+		}
+	],
+	"ｍａｅｓｔｒｏ#1236": [
+		{
+			"platform": "5",
+			"platform_str": "Japan",
+			"nick": "Hecyon",
+			"uid": "1257",
+			"lang": "en"
+		}
+	],
+	"JoJoDA13th#7713": [
+		{
+			"platform": "5",
+			"platform_str": "Japan",
+			"nick": "LAEVATEINN",
+			"uid": "2742",
+			"lang": "en"
+		}
+	],
+	"ZunaXismy#8607": [
+		{
+			"platform": "5",
+			"platform_str": "Japan",
+			"nick": "ZunaXism",
+			"uid": "960",
+			"lang": "en"
+		},
+		{
+			"platform": "5",
+			"platform_str": "Japan",
+			"nick": "ZunaXismy",
+			"uid": "960",
+			"lang": "en"
+		}
+	],
+	"Nefilim#0195": [
+		{
+			"platform": "5",
+			"platform_str": "Japan",
+			"nick": "Nephilim",
+			"uid": "75160",
+			"lang": "en"
+		}
+	],
+	"Salty#9324": [
+		{
+			"platform": "5",
+			"platform_str": "Japan",
+			"nick": "Salty",
+			"uid": "13230",
+			"lang": "en"
+		}
+	],
+	"Rome Akazima -(ロメ アケジマ)-#4690": [
+		{
+			"platform": "4",
+			"platform_str": "Taiwan",
+			"nick": "RomeAkazima",
+			"uid": "549892",
+			"lang": "en"
+		},
+		{
+			"platform": "5",
+			"platform_str": "Japan",
+			"nick": "RomeAkazima",
+			"uid": "87315",
+			"lang": "en"
+		}
+	],
+	"𝓓𝓪𝓮𝓭𝓻𝓪#5841": [
+		{
+			"platform": "5",
+			"platform_str": "Japan",
+			"nick": "Daedra",
+			"uid": "63346",
+			"lang": "en"
+		}
+	],
+	"정승연#5440": [
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "제투아",
+			"uid": "25576",
+			"lang": "ko"
+		}
+	],
+	"Elesis#6857": [
+		{
+			"platform": "5",
+			"platform_str": "Japan",
+			"nick": "Seillya",
+			"uid": "249110",
+			"lang": "en"
+		}
+	],
+	"神崎 一郎/Ichiro Kanzaki#9696": [
+		{
+			"platform": "1",
+			"platform_str": "bilibili1",
+			"nick": "神崎一郎",
+			"uid": "884776",
+			"lang": "en"
+		}
+	],
+	"HongC#2297": [
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "홍삼이",
+			"uid": "38152",
+			"lang": "ko"
+		}
+	],
+	"CroNos#0001": [
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "CroNos",
+			"uid": "66661",
+			"lang": "ko"
+		}
+	],
+	"Ayker#7056": [
+		{
+			"platform": "2",
+			"platform_str": "DigitalSky4",
+			"nick": "Ayker",
+			"uid": "6582",
+			"lang": "en"
+		}
+	],
+	"Kneesox#0040": [
+		{
+			"platform": "2",
+			"platform_str": "DigitalSky1",
+			"nick": "Kneesox",
+			"uid": "urnan",
+			"lang": "en"
+		}
+	],
+	"GlenTheBee#1489": [
+		{
+			"platform": "5",
+			"platform_str": "Japan",
+			"nick": "GlenTheBee",
+			"uid": "173742",
+			"lang": "en"
+		},
+		{
+			"platform": "5",
+			"platform_str": "Japan",
+			"nick": "GlenTheBee",
+			"uid": "173742",
+			"lang": "en"
+		}
+	],
+	"Hodolski#2975": [
+		{
+			"platform": "5",
+			"platform_str": "일본",
+			"nick": "Hodolski",
+			"uid": "70011",
+			"lang": "ko"
+		}
+	],
+	"Herviz#7601": [
+		{
+			"platform": "5",
+			"platform_str": "Japan",
+			"nick": "GEHerviz",
+			"uid": "271279",
+			"lang": "en"
+		}
+	],
+	"EpharGy#1169": [
+		{
+			"platform": "2",
+			"platform_str": "DigitalSky2",
+			"nick": "Reoria",
+			"uid": "53640",
+			"lang": "en"
+		}
+	],
+	"GTonic#8239": [
+		{
+			"platform": "2",
+			"platform_str": "DigitalSky2",
+			"nick": "GTonic",
+			"uid": "664343",
+			"lang": "en"
+		}
+	],
+	"NEKOθwθ#4384": [
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "모험자카즈마",
+			"uid": "680514",
+			"lang": "ko"
+		}
+	],
+	"tobyadog#7249": [
+		{
+			"platform": "2",
+			"platform_str": "DigitalSky0",
+			"nick": "s12.tobyadog",
+			"uid": "442708",
+			"lang": "en"
+		}
+	],
+	"Daedalus#0444": [
+		{
+			"platform": "2",
+			"platform_str": "DigitalSky0",
+			"nick": "Daedalus77",
+			"uid": "411595",
+			"lang": "en"
+		}
+	],
+	"yujinlee04#9509": [
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "yujinlee04",
+			"uid": "1160342",
+			"lang": "ko"
+		}
+	],
+	"Sayaa_#9241": [
+		{
+			"platform": "1",
+			"platform_str": "bilibili0",
+			"nick": "Sayo",
+			"uid": "1090276",
+			"lang": "en"
+		}
+	],
+	"UniPixel#6476": [
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "슴가",
+			"uid": "30422",
+			"lang": "ko"
+		}
+	],
+	"윤장권#8828": [
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "루멘사",
+			"uid": "77543",
+			"lang": "ko"
+		}
+	],
+	"ABC비비큐#0521": [
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "GenoCide",
+			"uid": "1724748",
+			"lang": "ko"
+		}
+	],
+	"Hakuhatsu#8390": [
+		{
+			"platform": "4",
+			"platform_str": "台湾",
+			"nick": "Hakuhatsu",
+			"uid": "538593",
+			"lang": "jp"
+		}
+	],
+	"A5uka#5569": [
+		{
+			"platform": "5",
+			"platform_str": "日本",
+			"nick": "A5uka",
+			"uid": "460823",
+			"lang": "jp"
+		}
+	],
+	"HINO#7882": [
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "SCANIA",
+			"uid": "26267",
+			"lang": "ko"
+		},
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "/winfo SCANIA",
+			"uid": "26267",
+			"lang": "ko"
+		}
+	],
+	"Desolation ☣#2199": [
+		{
+			"platform": "4",
+			"platform_str": "Taiwan",
+			"nick": "Cruizer",
+			"uid": "635775",
+			"lang": "en"
+		}
+	],
+	"AURIS#3668": [
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "AKT",
+			"uid": "235497",
+			"lang": "ko"
+		}
+	],
+	"lutin98#8475": [
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "lutin98",
+			"uid": "#8618",
+			"lang": "ko"
+		},
+		{
+			"platform": "3",
+			"platform_str": "한국",
+			"nick": "lutin98",
+			"uid": "#8618",
+			"lang": "ko"
+		}
+	]
+}

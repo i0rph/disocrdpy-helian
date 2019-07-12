@@ -1,0 +1,2322 @@
+[
+	{
+		"Colt Revolver": {
+			"time": "00:50",
+			"type": "HG",
+			"star": "4",
+			"img_url": "http://en.gfwiki.com/images/4/43/Colt_Revolver.png",
+			"number": "1",
+			"buff_graphic": "⚫🔵⚫\n🔵⚪🔵\n⚫🔵⚫",
+			"buff_description": "화력24%, 명중50%",
+			"skill_name": "일제사격",
+			"skill_description": "아군 전체 화력을 22% 상승시킨다. 지속시간 8초",
+			"illustrator": "Saru",
+			"CV": "Aimi Tanaka",
+			"gun_name_KR": "콜트 리볼버"
+		}
+	},
+	{
+		"M1911": {
+			"time": "00:20",
+			"type": "HG",
+			"star": "2",
+			"img_url": "http://en.gfwiki.com/images/b/b2/M1911.png",
+			"number": "2",
+			"buff_graphic": "⚫🔵⚫\n🔵⚪🔵\n⚫🔵⚫",
+			"buff_description": "사속20%, 명중50%",
+			"skill_name": "연막탄",
+			"skill_description": "연막탄을 투척하여 반경 2.5범위 내의 적들의 공격속도를 36% 이동속도를 45% 감소시킨다. 지속시간 4초",
+			"illustrator": "spirtie",
+			"CV": "Eriko Matsui",
+			"gun_name_KR": "M1911"
+		}
+	},
+	{
+		"Nagant Revolver": {
+			"time": "00:20",
+			"type": "HG",
+			"star": "2",
+			"img_url": "http://en.gfwiki.com/images/1/1a/Nagant_Revolver.png",
+			"number": "5",
+			"buff_graphic": "⚫🔵⚫\n🔵⚪⚫\n⚫🔵⚫",
+			"buff_description": "화력32%, 치명16%",
+			"skill_name": "기선제압N",
+			"skill_description": "야간작전에서 적군 전체 화력을 35% 감소시킨다. (주간 보정치 : 20%) 지속시간 8초(주간 보정치 : 5초)",
+			"illustrator": "X布",
+			"CV": "Narumi Sinohara",
+			"gun_name_KR": "나강 리볼버"
+		}
+	},
+	{
+		"P38": {
+			"time": "00:20",
+			"type": "HG",
+			"star": "2",
+			"img_url": "http://en.gfwiki.com/images/9/96/P38.png",
+			"number": "9",
+			"buff_graphic": "⚫🔵🔵\n⚫⚪⚫\n⚫🔵🔵",
+			"buff_description": "사속14%, 명중56%",
+			"skill_name": "조명탄",
+			"skill_description": "야간작전에서 아군 전체 명중을 90% 상승시킨다. 지속시간 15초",
+			"illustrator": "とり",
+			"CV": "Tooru Kanae ",
+			"gun_name_KR": "P38"
+		}
+	},
+	{
+		"PPK": {
+			"time": "00:22",
+			"type": "HG",
+			"star": "2",
+			"img_url": "http://en.gfwiki.com/images/9/94/PPK.png",
+			"number": "10",
+			"buff_graphic": "🔵⚫⚫\n🔵⚪🔵\n🔵⚫⚫",
+			"buff_description": "사속32%, 치명16%",
+			"skill_name": "사냥신호",
+			"skill_description": "아군 전체 화력을 10% 치명타율을 35% 상승시킨다. 지속시간 8초",
+			"illustrator": "堀森",
+			"CV": "Asuka Ito",
+			"gun_name_KR": "PPK"
+		}
+	},
+	{
+		"MP-446": {
+			"time": "00:25",
+			"type": "HG",
+			"star": "2",
+			"img_url": "http://en.gfwiki.com/images/6/60/MP-446.png",
+			"number": "91",
+			"buff_graphic": "🔵🔵⚫\n🔵⚪⚫\n🔵🔵⚫",
+			"buff_description": "화력28%",
+			"skill_name": "격발차단",
+			"skill_description": "적군 전체 사속을 22% 감소시킨다. 지속시간 8초",
+			"illustrator": "XQ",
+			"CV": "Iori Nomizu",
+			"gun_name_KR": "MP-446"
+		}
+	},
+	{
+		"FNP-9": {
+			"time": "00:25",
+			"type": "HG",
+			"star": "2",
+			"img_url": "http://en.gfwiki.com/images/a/ad/FNP-9.png",
+			"number": "90",
+			"buff_graphic": "⚫🔵🔵\n⚫⚪🔵\n⚫🔵🔵",
+			"buff_description": "사속20%, 명중40%",
+			"skill_name": "퇴로차단",
+			"skill_description": "적군 전체 회피를 40% 감소시킨다. 지속시간 8초",
+			"illustrator": "Bison仓鼠",
+			"CV": "Aoi Koga",
+			"gun_name_KR": "FNP-9"
+		}
+	},
+	{
+		"Bren Ten": {
+			"time": "00:28",
+			"type": "HG",
+			"star": "2",
+			"img_url": "http://en.gfwiki.com/images/4/42/Bren_Ten.png",
+			"number": "139",
+			"buff_graphic": "⚫🔵⚫\n🔵⚪🔵\n⚫🔵⚫",
+			"buff_description": "화력16%, 사속10%",
+			"skill_name": "일제사격",
+			"skill_description": "아군 전체 화력을 18% 상승시킨다. 지속시간 8초",
+			"illustrator": "林大B",
+			"CV": "Arisu Sato",
+			"gun_name_KR": "Bren Ten"
+		}
+	},
+	{
+		"USP Compact": {
+			"time": "00:28",
+			"type": "HG",
+			"star": "2",
+			"img_url": "http://en.gfwiki.com/images/9/97/USP_Compact.png",
+			"number": "141",
+			"buff_graphic": "🔵⚫⚫\n⚫⚪🔵\n🔵⚫⚫",
+			"buff_description": "사속28%",
+			"skill_name": "목표확인",
+			"skill_description": "아군 전체 명중을 100% 상승시킨다. 지속시간 8초",
+			"illustrator": "哈路卡",
+			"CV": "Arisu Sato",
+			"gun_name_KR": "USP Compact"
+		}
+	},
+	{
+		"C96": {
+			"time": "00:30",
+			"type": "HG",
+			"star": "3",
+			"img_url": "http://en.gfwiki.com/images/6/69/C96.png",
+			"number": "12",
+			"buff_graphic": "🔵⚫⚫\n⚫⚪🔵\n🔵⚫⚫",
+			"buff_description": "명중64%, 회피30%",
+			"skill_name": "조명탄",
+			"skill_description": "야간작전에서 아군 전체 명중을 100% 상승시킨다. 지속시간 15초",
+			"illustrator": "林檎愛す",
+			"CV": "Ayaka Itatani",
+			"gun_name_KR": "C96"
+		}
+	},
+	{
+		"P08": {
+			"time": "00:30",
+			"type": "HG",
+			"star": "3",
+			"img_url": "http://en.gfwiki.com/images/e/e0/P08.png",
+			"number": "11",
+			"buff_graphic": "⚫🔵⚫\n⚫⚪🔵\n⚫🔵⚫",
+			"buff_description": "화력14%, 명중70%",
+			"skill_name": "엄호개시N",
+			"skill_description": "야간작전에서 아군 전체 회피를 85% 상승시킨다. (주간 보정치 : 35%) 지속시간 8초(주간 보정치 : 5초)",
+			"illustrator": "防弹乳牛",
+			"CV": "Takao Koizumi",
+			"gun_name_KR": "P08"
+		}
+	},
+	{
+		"Type 92": {
+			"time": "00:35",
+			"type": "HG",
+			"star": "3",
+			"img_url": "http://en.gfwiki.com/images/0/0f/Type_92.png",
+			"number": "13",
+			"buff_graphic": "🔵🔵🔵\n🔵⚪🔵\n🔵🔵🔵",
+			"buff_description": "명중50%, 회피40%",
+			"skill_name": "돌격개시",
+			"skill_description": "아군 전체의 화력과 사속을 각각 10% 씩 상승시킨다. 지속시간 8초",
+			"illustrator": "莲子",
+			"CV": "Suzuko Mimori",
+			"gun_name_KR": "92식"
+		}
+	},
+	{
+		"P99": {
+			"time": "00:35",
+			"type": "HG",
+			"star": "3",
+			"img_url": "http://en.gfwiki.com/images/f/f9/P99.png",
+			"number": "123",
+			"buff_graphic": "⚫🔵⚫\n⚫⚪🔵\n⚫🔵⚫",
+			"buff_description": "사속12%, 회피36%",
+			"skill_name": "엄호개시",
+			"skill_description": "아군 전체 회피를 55% 상승시킨다. 지속시간 8초",
+			"illustrator": "真名",
+			"CV": "Ayako Kawasumi",
+			"gun_name_KR": "P99"
+		}
+	},
+	{
+		"Astra Revolver": {
+			"time": "00:40",
+			"type": "HG",
+			"star": "3",
+			"img_url": "http://en.gfwiki.com/images/7/73/Astra_Revolver.png",
+			"number": "14",
+			"buff_graphic": "🔵⚫🔵\n⚫⚪⚫\n🔵⚫🔵",
+			"buff_description": "사속20%, 회피20%",
+			"skill_name": "진압신호",
+			"skill_description": "아군 전체 사속을 20% 상승시킨다. 지속시간 8초",
+			"illustrator": "spirtie",
+			"CV": "Sora Amamiya",
+			"gun_name_KR": "아스트라 리볼버"
+		}
+	},
+	{
+		"Makarov": {
+			"time": "00:40",
+			"type": "HG",
+			"star": "3",
+			"img_url": "http://en.gfwiki.com/images/4/4c/Makarov.png",
+			"number": "8",
+			"buff_graphic": "🔵⚫⚫\n🔵⚪🔵\n🔵⚫⚫",
+			"buff_description": "화력20%, 사속12%",
+			"skill_name": "시야봉쇄",
+			"skill_description": "적군 전체 명중을 36% 감소시킨다. 지속시간 6초",
+			"illustrator": "河马",
+			"CV": "Uesaka Sumire",
+			"gun_name_KR": "마카로프"
+		}
+	},
+	{
+		"M9": {
+			"time": "00:40",
+			"type": "HG",
+			"star": "3",
+			"img_url": "http://en.gfwiki.com/images/5/58/M9.png",
+			"number": "3",
+			"buff_graphic": "⚫🔵🔵\n⚫⚪⚫\n⚫🔵🔵",
+			"buff_description": "화력20%, 회피20%",
+			"skill_name": "섬광탄",
+			"skill_description": "섬광탄을 투척하여 반경 2.5범위 내의 적들을 3.2초 동안 기절 상태로 만든다.",
+			"illustrator": "M.vv",
+			"CV": "Aya Suzaki",
+			"gun_name_KR": "M9"
+		}
+	},
+	{
+		"Tokarev": {
+			"time": "00:45",
+			"type": "HG",
+			"star": "3",
+			"img_url": "http://en.gfwiki.com/images/e/ef/Tokarev.png",
+			"number": "6",
+			"buff_graphic": "⚫🔵🔵\n⚫⚪⚫\n⚫🔵🔵",
+			"buff_description": "사속20%, 명중50%",
+			"skill_name": "엄호개시",
+			"skill_description": "아군 전체 회피를 55% 상승시킨다. 지속시간 8초",
+			"illustrator": "废人",
+			"CV": "Hiromi Sakuma",
+			"gun_name_KR": "토카레프"
+		}
+	},
+	{
+		"Mk23": {
+			"time": "00:50",
+			"type": "HG",
+			"star": "4",
+			"img_url": "http://en.gfwiki.com/images/b/b1/Mk23.png",
+			"number": "99",
+			"buff_graphic": "🔵⚫⚫\n🔵⚪🔵\n🔵⚫⚫",
+			"buff_description": "화력36%",
+			"skill_name": "일제사격N",
+			"skill_description": "야간작전에서 아군 전체 화력을 35% 상승시킨다. (주간 보정치 : 20%) 지속시간 8초(주간 보정치 : 5초)",
+			"illustrator": "雪樱樱",
+			"CV": "Hikaru Akao",
+			"gun_name_KR": "Mk23"
+		}
+	},
+	{
+		"Stechkin": {
+			"time": "00:55",
+			"type": "HG",
+			"star": "4",
+			"img_url": "http://en.gfwiki.com/images/f/fe/Stechkin.png",
+			"number": "7",
+			"buff_graphic": "⚫🔵🔵\n⚫⚪⚫\n⚫🔵🔵",
+			"buff_description": "화력12%, 사속24%",
+			"skill_name": "진압신호",
+			"skill_description": "아군 전체 사속을 22% 상승시킨다. 지속시간 8초",
+			"illustrator": "鳗鱼子",
+			"CV": "Eri Kitamura",
+			"gun_name_KR": "스테츠킨"
+		}
+	},
+	{
+		"P7": {
+			"time": "00:55",
+			"type": "HG",
+			"star": "4",
+			"img_url": "http://en.gfwiki.com/images/6/64/P7.png",
+			"number": "100",
+			"buff_graphic": "🔵🔵🔵\n⚫⚪⚫\n🔵🔵🔵",
+			"buff_description": "사속20%, 회피24%",
+			"skill_name": "엄호개시",
+			"skill_description": "아군 전체 회피를 60% 상승시킨다. 지속시간 8초",
+			"illustrator": "Saru",
+			"CV": "Tomoyo Kurosawa",
+			"gun_name_KR": "P7"
+		}
+	},
+	{
+		"Welrod Mk.II": {
+			"time": "01:00",
+			"type": "HG",
+			"star": "5",
+			"img_url": "http://en.gfwiki.com/images/7/73/Welrod_MkII.png",
+			"number": "114",
+			"buff_graphic": "🔵🔵⚫\n🔵⚪⚫\n🔵🔵⚫",
+			"buff_description": "화력20%, 사속16%",
+			"skill_name": "시야봉쇄",
+			"skill_description": "적군 전체 명중을 45% 감소시킨다. 지속시간 6초",
+			"illustrator": "工口牛",
+			"CV": "Asami Imai",
+			"gun_name_KR": "웰로드MkⅡ"
+		}
+	},
+	{
+		"M950A": {
+			"time": "01:05",
+			"type": "HG",
+			"star": "5",
+			"img_url": "http://en.gfwiki.com/images/2/24/M950A.png",
+			"number": "97",
+			"buff_graphic": "🔵⚫🔵\n⚫⚪⚫\n🔵⚫🔵",
+			"buff_description": "사속30%, 명중50%",
+			"skill_name": "진압신호",
+			"skill_description": "아군 전체 사속을 25% 상승시킨다. 지속시간 8초",
+			"illustrator": "音符",
+			"CV": "Aoi Koga",
+			"gun_name_KR": "M950A"
+		}
+	},
+	{
+		"Grizzly Mk.V": {
+			"time": "01:10",
+			"type": "HG",
+			"star": "5",
+			"img_url": "http://en.gfwiki.com/images/e/e0/Grizzly_MkV.png",
+			"number": "96",
+			"buff_graphic": "🔵🔵⚫\n⚫⚪🔵\n🔵🔵⚫",
+			"buff_description": "화력30%, 회피20%",
+			"skill_name": "일제사격",
+			"skill_description": "아군 전체 화력을 25% 상승시킨다. 지속시간 8초",
+			"illustrator": "REALMBW",
+			"CV": "Ayaka Itatani",
+			"gun_name_KR": "그리즐리MkⅤ"
+		}
+	},
+	{
+		"PP-2000": {
+			"time": "01:10",
+			"type": "SMG",
+			"star": "2",
+			"img_url": "http://en.gfwiki.com/images/5/5e/PP-2000.png",
+			"number": "24",
+			"buff_graphic": "🔵⚫⚫\n⚫⚪⚫\n🔵⚫⚫",
+			"buff_description": "화력10%, 명중25%",
+			"skill_name": "수류탄",
+			"skill_description": "수류탄을 투척하여 반경 2.5범위 내의 적들에게 공격력의 5.5배의 피해를 입힌다.",
+			"illustrator": "NoriZC",
+			"CV": "Tamari Hinata",
+			"gun_name_KR": "PP-2000"
+		}
+	},
+	{
+		"IDW": {
+			"time": "01:10",
+			"type": "SMG",
+			"star": "2",
+			"img_url": "http://en.gfwiki.com/images/1/16/IDW.png",
+			"number": "93",
+			"buff_graphic": "🔵⚫⚫\n🔵⚪⚫\n🔵⚫⚫",
+			"buff_description": "회피20%",
+			"skill_name": "회피기동",
+			"skill_description": "자신의 회피를 110% 상승시킨다. 지속시간 5초",
+			"illustrator": "Ki桑",
+			"CV": "Ito Asuka",
+			"gun_name_KR": "IDW"
+		}
+	},
+	{
+		"M45": {
+			"time": "01:20",
+			"type": "SMG",
+			"star": "2",
+			"img_url": "http://en.gfwiki.com/images/c/cc/m45.png",
+			"number": "33",
+			"buff_graphic": "🔵⚫⚫\n⚫⚪⚫\n🔵⚫⚫",
+			"buff_description": "사속10%, 회피10%",
+			"skill_name": "연막탄",
+			"skill_description": "연막탄을 투척하여 반경 2.5범위 내의 적들의 공격속도를 36% 이동속도를 45% 감소시킨다. 지속시간 4초",
+			"illustrator": "TAMAXI",
+			"CV": "Mikako Takahashi",
+			"gun_name_KR": "m45"
+		}
+	},
+	{
+		"Spectre M4": {
+			"time": "01:20",
+			"type": "SMG",
+			"star": "2",
+			"img_url": "http://en.gfwiki.com/images/e/ee/Spectre_M4.png",
+			"number": "92",
+			"buff_graphic": "⚫⚫⚫\n🔵⚪⚫\n⚫⚫⚫",
+			"buff_description": "화력20%",
+			"skill_name": "회피기동",
+			"skill_description": "자신의 회피를 110% 상승시킨다. 지속시간 5초",
+			"illustrator": "MKiiiiii",
+			"CV": "Emi Uema",
+			"gun_name_KR": "Spectre M4"
+		}
+	},
+	{
+		"Type 64": {
+			"time": "01:25",
+			"type": "SMG",
+			"star": "2",
+			"img_url": "http://en.gfwiki.com/images/e/e5/Type_64.png",
+			"number": "94",
+			"buff_graphic": "⚫⚫⚫\n🔵⚪⚫\n⚫⚫⚫",
+			"buff_description": "사속20%",
+			"skill_name": "",
+			"skill_description": "",
+			"illustrator": "小迪",
+			"CV": "Saya Horigom",
+			"gun_name_KR": "64식"
+		}
+	},
+	{
+		"MAB-38": {
+			"time": "01:30",
+			"type": "SMG",
+			"star": "2",
+			"img_url": "http://en.gfwiki.com/images/3/3b/Beretta_Model_38.png",
+			"number": "31",
+			"buff_graphic": "🔵⚫⚫\n⚫⚪⚫\n🔵⚫⚫",
+			"buff_description": "화력5%, 사속10%",
+			"skill_name": "",
+			"skill_description": "",
+			"illustrator": "ALLENES",
+			"CV": "Haruka Takahashi",
+			"gun_name_KR": "베레타 38형"
+		}
+	},
+	{
+		"M3": {
+			"time": "01:30",
+			"type": "SMG",
+			"star": "2",
+			"img_url": "http://en.gfwiki.com/images/a/a6/M3.png",
+			"number": "17",
+			"buff_graphic": "⚫⚫⚫\n🔵⚪⚫\n⚫⚫⚫",
+			"buff_description": "명중40%, 회피30%",
+			"skill_name": "수류탄",
+			"skill_description": "수류탄을 투척하여 반경 2.5범위 내의 적들에게 공격력의 5.5배의 피해를 입힌다.",
+			"illustrator": "november",
+			"CV": "Nozomi Amane",
+			"gun_name_KR": "M3"
+		}
+	},
+	{
+		"MP40": {
+			"time": "01:30",
+			"type": "SMG",
+			"star": "2",
+			"img_url": "http://en.gfwiki.com/images/1/1b/MP40.png",
+			"number": "25",
+			"buff_graphic": "🔵⚫⚫\n⚫⚪⚫\n🔵⚫⚫",
+			"buff_description": "명중25%, 회피20%",
+			"skill_name": "소이탄",
+			"skill_description": "소이탄을 투척하여 반경 1.5범위 내의 적들에게 공격력의 5.5배의 폭발 데미지와 함께 5초 동안 매 0.33초당 공격력의 1배의 화상 도트 데미지를 입힌다.",
+			"illustrator": "废人",
+			"CV": "Eriko Matsui",
+			"gun_name_KR": "MP40"
+		}
+	},
+	{
+		"Sten Mk.II": {
+			"time": "01:40",
+			"type": "SMG",
+			"star": "3",
+			"img_url": "http://en.gfwiki.com/images/a/a1/Sten_MkII.png",
+			"number": "29",
+			"buff_graphic": "🔵⚫⚫\n🔵⚪⚫\n🔵⚫⚫",
+			"buff_description": "명중10%, 회피30%",
+			"skill_name": "수류탄",
+			"skill_description": "수류탄을 투척하여 반경 2.5범위 내의 적들에게 공격력의 6배의 피해를 입힌다.",
+			"illustrator": "真名",
+			"CV": "Kami Daimon",
+			"gun_name_KR": "스텐MkⅡ"
+		}
+	},
+	{
+		"Micro-Uzi": {
+			"time": "01:40",
+			"type": "SMG",
+			"star": "3",
+			"img_url": "http://en.gfwiki.com/images/1/1d/Micro_Uzi.png",
+			"number": "32",
+			"buff_graphic": "⚫🔵⚫\n⚫⚪⚫\n⚫🔵⚫",
+			"buff_description": "화력18%",
+			"skill_name": "소이탄",
+			"skill_description": "소이탄을 투척하여 반경 1.5범위 내의 적들에게 공격력의 6배의 폭발 데미지와 함께 5초 동안 매 0.33초당 공격력의 1배의 화상 도트 데미지를 입힌다.",
+			"illustrator": "死盖",
+			"CV": "Saori Onishi",
+			"gun_name_KR": "마이크로 우지"
+		}
+	},
+	{
+		"PPSh-41": {
+			"time": "01:50",
+			"type": "SMG",
+			"star": "2",
+			"img_url": "http://en.gfwiki.com/images/b/b0/PPSh-41.png",
+			"number": "21",
+			"buff_graphic": "⚫🔵⚫\n⚫⚪⚫\n⚫🔵⚫",
+			"buff_description": "화력10%, 사속5%",
+			"skill_name": "수류탄",
+			"skill_description": "수류탄을 투척하여 반경 2.5범위 내의 적들에게 공격력의 5.5배의 피해를 입힌다.",
+			"illustrator": "和茶",
+			"CV": "Uesaka Sumire",
+			"gun_name_KR": "PPSh-41"
+		}
+	},
+	{
+		"MAC-10": {
+			"time": "02:00",
+			"type": "SMG",
+			"star": "3",
+			"img_url": "http://en.gfwiki.com/images/4/4c/MAC-10.png",
+			"number": "18",
+			"buff_graphic": "🔵⚫⚫\n🔵⚪⚫\n🔵⚫⚫",
+			"buff_description": "화력12%",
+			"skill_name": "연막탄",
+			"skill_description": "연막탄을 투척하여 반경 2.5범위 내의 적들의 공격속도를 36% 이동속도를 50% 감소시킨다. 지속시간 4초",
+			"illustrator": "SA",
+			"CV": "Ogura Yui",
+			"gun_name_KR": "MAC-10"
+		}
+	},
+	{
+		"Skorpion": {
+			"time": "02:00",
+			"type": "SMG",
+			"star": "3",
+			"img_url": "http://en.gfwiki.com/images/6/62/Skorpion.png",
+			"number": "27",
+			"buff_graphic": "⚫⚫⚫\n🔵⚪⚫\n⚫⚫⚫",
+			"buff_description": "사속15%, 명중50%",
+			"skill_name": "소이탄",
+			"skill_description": "소이탄을 투척하여 반경 1.5범위 내의 적들에게 공격력의 6배의 폭발 데미지와 함께 5초 동안 매 0.33초당 공격력의 1배의 화상 도트 데미지를 입힌다.",
+			"illustrator": "SA",
+			"CV": "Eriko Matsui",
+			"gun_name_KR": "스콜피온"
+		}
+	},
+	{
+		"Z-62": {
+			"time": "02:05",
+			"type": "SMG",
+			"star": "3",
+			"img_url": "http://en.gfwiki.com/images/6/69/Z-62.png",
+			"number": "116",
+			"buff_graphic": "⚫⚫⚫\n🔵⚪⚫\n🔵⚫⚫",
+			"buff_description": "화력12%, 회피10%",
+			"skill_name": "소이탄",
+			"skill_description": "소이탄을 투척하여 반경 1.5범위 내의 적들에게 공격력의 6배의 폭발 데미지와 함께 5초 동안 매 0.33초당 공격력의 1배의 화상 도트 데미지를 입힌다.",
+			"illustrator": "ALLENES",
+			"CV": "Iori Nomizu",
+			"gun_name_KR": "Z-62"
+		}
+	},
+	{
+		"PPS-43": {
+			"time": "02:10",
+			"type": "SMG",
+			"star": "3",
+			"img_url": "http://en.gfwiki.com/images/d/da/PPS-43.png",
+			"number": "22",
+			"buff_graphic": "🔵⚫⚫\n🔵⚪⚫\n🔵⚫⚫",
+			"buff_description": "화력12%",
+			"skill_name": "수류탄",
+			"skill_description": "수류탄을 투척하여 반경 2.5범위 내의 적들에게 공격력의 6배의 피해를 입힌다.",
+			"illustrator": "两卡车",
+			"CV": "Uesaka Sumire",
+			"gun_name_KR": "PPS-43"
+		}
+	},
+	{
+		"UMP9": {
+			"time": "02:15",
+			"type": "SMG",
+			"star": "4",
+			"img_url": "http://en.gfwiki.com/images/7/7c/UMP9.png",
+			"number": "101",
+			"buff_graphic": "🔵⚫⚫\n🔵⚪⚫\n🔵⚫⚫",
+			"buff_description": "사속12%, 명중30%",
+			"skill_name": "섬광탄",
+			"skill_description": "섬광탄을 투척하여 반경 2.5범위 내의 적들을 4초 동안 기절 상태로 만든다.",
+			"illustrator": "ZAGALA",
+			"CV": "Mamiko Noto",
+			"gun_name_KR": "UMP9"
+		}
+	},
+	{
+		"UMP45": {
+			"time": "02:15",
+			"type": "SMG",
+			"star": "4",
+			"img_url": "http://en.gfwiki.com/images/d/d7/UMP45.png",
+			"number": "103",
+			"buff_graphic": "🔵⚫⚫\n🔵⚪⚫\n🔵⚫⚫",
+			"buff_description": "화력18%, 치명30%",
+			"skill_name": "연막탄",
+			"skill_description": "연막탄을 투척하여 반경 2.5범위 내의 적들의 공격속도를 40% 이동속도를 50% 감소시킨다. 지속시간 4초",
+			"illustrator": "ZAGALA",
+			"CV": "Tomomi Mineuchi",
+			"gun_name_KR": "UMP45"
+		}
+	},
+	{
+		"MP5": {
+			"time": "02:20",
+			"type": "SMG",
+			"star": "4",
+			"img_url": "http://en.gfwiki.com/images/d/d5/MP5.png",
+			"number": "26",
+			"buff_graphic": "🔵⚫⚫\n⚫⚪⚫\n🔵⚫⚫",
+			"buff_description": "명중40%, 치명20%",
+			"skill_name": "포스실드",
+			"skill_description": "어떠한 공격이라도 회피 할 수 있다. 지속시간 3초",
+			"illustrator": "Saru",
+			"CV": "Naomi Mukaiyama",
+			"gun_name_KR": "MP5"
+		}
+	},
+	{
+		"PP-90": {
+			"time": "02:20",
+			"type": "SMG",
+			"star": "4",
+			"img_url": "http://en.gfwiki.com/images/2/20/PP-90.png",
+			"number": "23",
+			"buff_graphic": "🔵⚫⚫\n⚫⚪⚫\n🔵⚫⚫",
+			"buff_description": "화력8%, 회피20%",
+			"skill_name": "회피기동T",
+			"skill_description": "자신의 회피를 45% 상승시킨다. 지속시간 15초",
+			"illustrator": "NIXOO",
+			"CV": "Shiki Aoki",
+			"gun_name_KR": "PP-90"
+		}
+	},
+	{
+		"Suomi": {
+			"time": "02:25",
+			"type": "SMG",
+			"star": "5",
+			"img_url": "http://en.gfwiki.com/images/d/d5/Suomi.png",
+			"number": "115",
+			"buff_graphic": "🔵⚫⚫\n⚫⚪⚫\n🔵⚫⚫",
+			"buff_description": "사속15%, 명중30%",
+			"skill_name": "회피기동",
+			"skill_description": "자신의 회피를 150% 상승시킨다. 지속시간 5초",
+			"illustrator": "Anmi",
+			"CV": "Aki Toyosaki",
+			"gun_name_KR": "수오미"
+		}
+	},
+	{
+		"Thompson": {
+			"time": "02:30",
+			"type": "SMG",
+			"star": "5",
+			"img_url": "http://en.gfwiki.com/images/c/c5/Thompson.png",
+			"number": "16",
+			"buff_graphic": "🔵⚫⚫\n⚫⚪⚫\n🔵⚫⚫",
+			"buff_description": "화력12%, 회피15%",
+			"skill_name": "포스실드",
+			"skill_description": "어떠한 공격이라도 회피 할 수 있다. 지속시간 4초",
+			"illustrator": "NS",
+			"CV": "Risa Taneda",
+			"gun_name_KR": "톰슨"
+		}
+	},
+	{
+		"G36C": {
+			"time": "02:30",
+			"type": "SMG",
+			"star": "5",
+			"img_url": "http://en.gfwiki.com/images/0/05/G36C.png",
+			"number": "104",
+			"buff_graphic": "🔵⚫⚫\n🔵⚪⚫\n🔵⚫⚫",
+			"buff_description": "화력10%, 사속8%",
+			"skill_name": "포스실드",
+			"skill_description": "어떠한 공격이라도 회피 할 수 있다. 지속시간 4초",
+			"illustrator": "Parsley",
+			"CV": "Akane Fujita",
+			"gun_name_KR": "G36C"
+		}
+	},
+	{
+		"SR-3MP": {
+			"time": "02:33",
+			"type": "SMG",
+			"star": "5",
+			"img_url": "http://en.gfwiki.com/images/f/f1/SR-3MP.png",
+			"number": "135",
+			"buff_graphic": "🔵⚫⚫\n🔵⚪⚫\n🔵⚫⚫",
+			"buff_description": "사속18%, 치명30%",
+			"skill_name": "화력전개",
+			"skill_description": "자신의 화력을 260% 상승시킨다. 지속시간 5초",
+			"illustrator": "熊猫印象",
+			"CV": "Yuuki Takada",
+			"gun_name_KR": "SR-3MP"
+		}
+	},
+	{
+		"VECTOR": {
+			"time": "02:35",
+			"type": "SMG",
+			"star": "5",
+			"img_url": "http://en.gfwiki.com/images/2/27/Vector.png",
+			"number": "20",
+			"buff_graphic": "⚫⚫⚫\n🔵⚪⚫\n⚫⚫⚫",
+			"buff_description": "사속25%",
+			"skill_name": "소이탄",
+			"skill_description": "소이탄을 투척하여 반경 1.5범위 내의 적들에게 공격력의 7배의 폭발 데미지와 함께 5초 동안 매 0.33초당 공격력의 1배의 화상 도트 데미지를 입힌다.",
+			"illustrator": "SA",
+			"CV": "Saori Hayami",
+			"gun_name_KR": "Vector"
+		}
+	},
+	{
+		"Type 79": {
+			"time": "02:35",
+			"type": "SMG",
+			"star": "5",
+			"img_url": "http://en.gfwiki.com/images/2/2f/Type_79.png",
+			"number": "127",
+			"buff_graphic": "🔵⚫⚫\n⚫⚪⚫\n🔵⚫⚫",
+			"buff_description": "화력20%",
+			"skill_name": "섬광탄",
+			"skill_description": "섬광탄을 투척하여 반경 2.5범위 내의 적들을 4.5초 동안 기절 상태로 만든다.",
+			"illustrator": "防弹乳牛",
+			"CV": "Minami Tanaka",
+			"gun_name_KR": "79식"
+		}
+	},
+	{
+		"Galil": {
+			"time": "02:40",
+			"type": "AR",
+			"star": "2",
+			"img_url": "http://en.gfwiki.com/images/d/d6/Galil.png",
+			"number": "71",
+			"buff_graphic": "⚫⚫⚫\n⚫⚪🔵\n⚫⚫⚫",
+			"buff_description": "명중50%, 회피10%",
+			"skill_name": "호흡조절",
+			"skill_description": "자신의 명중을 500% 상승시킨다. 지속시간 15초",
+			"illustrator": "lyo",
+			"CV": "Karin Mitarai",
+			"gun_name_KR": "갈릴"
+		}
+	},
+	{
+		"SIG-510": {
+			"time": "02:40",
+			"type": "AR",
+			"star": "2",
+			"img_url": "http://en.gfwiki.com/images/1/16/SIG-510.png",
+			"number": "74",
+			"buff_graphic": "⚫⚫🔵\n⚫⚪⚫\n⚫⚫🔵",
+			"buff_description": "화력20%, 사속10%",
+			"skill_name": "화력전개",
+			"skill_description": "자신의 화력을 55% 상승시킨다. 지속시간 5초",
+			"illustrator": "spirtie",
+			"CV": "Miki Amano",
+			"gun_name_KR": "SIG-510"
+		}
+	},
+	{
+		"F2000": {
+			"time": "02:45",
+			"type": "AR",
+			"star": "2",
+			"img_url": "http://en.gfwiki.com/images/2/29/F2000.png",
+			"number": "107",
+			"buff_graphic": "⚫⚫⚫\n⚫⚪🔵\n⚫⚫⚫",
+			"buff_description": "화력20%, 회피10%",
+			"skill_name": "화력전개",
+			"skill_description": "자신의 화력을 55% 상승시킨다. 지속시간 5초",
+			"illustrator": "hanasa",
+			"CV": "Sora Tokui",
+			"gun_name_KR": "F2000"
+		}
+	},
+	{
+		"Type 63": {
+			"time": "02:45",
+			"type": "AR",
+			"star": "2",
+			"img_url": "http://en.gfwiki.com/images/d/d3/Type_63.png",
+			"number": "133",
+			"buff_graphic": "⚫⚫⚫\n⚫⚪🔵\n⚫⚫⚫",
+			"buff_description": "화력10%, 사속20%",
+			"skill_name": "호흡조절",
+			"skill_description": "자신의 명중을 500% 상승시킨다. 지속시간 15초",
+			"illustrator": "TOMATO",
+			"CV": "Saya Horigom",
+			"gun_name_KR": "63식"
+		}
+	},
+	{
+		"L85A1": {
+			"time": "02:50",
+			"type": "AR",
+			"star": "2",
+			"img_url": "http://en.gfwiki.com/images/7/77/L85A1.png",
+			"number": "68",
+			"buff_graphic": "⚫🔵⚫\n⚫⚪⚫\n⚫⚫⚫",
+			"buff_description": "화력20%, 명중50%",
+			"skill_name": "강행돌파",
+			"skill_description": "자신의 화력을 35% 사속을 15% 상승시킨다. 지속시간 5초",
+			"illustrator": "MKiiiiii",
+			"CV": "Yukiko Ayamiya",
+			"gun_name_KR": "L85A1"
+		}
+	},
+	{
+		"G3": {
+			"time": "02:50",
+			"type": "AR",
+			"star": "2",
+			"img_url": "http://en.gfwiki.com/images/4/45/G3.png",
+			"number": "63",
+			"buff_graphic": "⚫🔵⚫\n⚫⚪⚫\n⚫⚫⚫",
+			"buff_description": "사속20%, 명중50%",
+			"skill_name": "살상류탄",
+			"skill_description": "유탄을 발사하여 반경 1.5범위 내의 적들에게 공격력의 10배의 피해를 입힌다.",
+			"illustrator": "PHI",
+			"CV": "Kaori Yoshioka",
+			"gun_name_KR": "G3"
+		}
+	},
+	{
+		"StG44": {
+			"time": "03:00",
+			"type": "AR",
+			"star": "3",
+			"img_url": "http://en.gfwiki.com/images/a/a0/StG44.png",
+			"number": "61",
+			"buff_graphic": "⚫⚫⚫\n⚫⚪🔵\n⚫⚫⚫",
+			"buff_description": "회피20%, 명중60%",
+			"skill_name": "파열류탄",
+			"skill_description": "유탄을 발사하여 반경 1/2.5/4범위 내의 적들에게 각각 공격력의 4.5/1.8/1배의 피해를 입힌다.",
+			"illustrator": "八才",
+			"CV": "Ai Kayano ",
+			"gun_name_KR": "StG44"
+		}
+	},
+	{
+		"OTs-12": {
+			"time": "03:10",
+			"type": "AR",
+			"star": "3",
+			"img_url": "http://en.gfwiki.com/images/7/71/OTs-12.png",
+			"number": "105",
+			"buff_graphic": "⚫⚫🔵\n⚫⚪🔵\n⚫⚫⚫",
+			"buff_description": "화력15%, 사속20%",
+			"skill_name": "고속사격T",
+			"skill_description": "자신의 사속을 60% 상승시킨다. 지속시간 10초",
+			"illustrator": "林檎愛す",
+			"CV": "Yumi Uchiyama",
+			"gun_name_KR": "OTs-12"
+		}
+	},
+	{
+		"G43": {
+			"time": "03:10",
+			"type": "RF",
+			"star": "2",
+			"img_url": "http://en.gfwiki.com/images/b/bb/G43.png",
+			"number": "47",
+			"buff_graphic": "⚫⚫🔵\n⚫⚪⚫\n⚫⚫🔵",
+			"buff_description": "쿨타임 감소10%",
+			"skill_name": "고속사격N",
+			"skill_description": "야간작전에서 자신의 사속을 85% 상승시킨다. (주간 보정치 : 28%) 지속시간 5초",
+			"illustrator": "河马",
+			"CV": "Nozomi Amane",
+			"gun_name_KR": "G43"
+		}
+	},
+	{
+		"FN-49": {
+			"time": "03:10",
+			"type": "RF",
+			"star": "2",
+			"img_url": "http://en.gfwiki.com/images/0/04/FN-49.png",
+			"number": "51",
+			"buff_graphic": "⚫⚫🔵\n⚫⚪⚫\n⚫⚫🔵",
+			"buff_description": "쿨타임 감소10%",
+			"skill_name": "화력전개",
+			"skill_description": "자신의 화력을 55% 상승시킨다. 지속시간 5초",
+			"illustrator": "Bison仓鼠",
+			"CV": "Mami Misaki",
+			"gun_name_KR": "FN-49"
+		}
+	},
+	{
+		"ARX-160": {
+			"time": "03:15",
+			"type": "AR",
+			"star": "3",
+			"img_url": "http://en.gfwiki.com/images/1/1f/ARX-160.png",
+			"number": "120",
+			"buff_graphic": "⚫⚫⚫\n⚫⚪⚫\n⚫⚫🔵",
+			"buff_description": "화력25%, 명중50%",
+			"skill_name": "살상류탄",
+			"skill_description": "유탄을 발사하여 반경 1.5범위 내의 적들에게 공격력의 11배의 피해를 입힌다.",
+			"illustrator": "死盖",
+			"CV": "Minori Hagiwara",
+			"gun_name_KR": "ARX-160"
+		}
+	},
+	{
+		"AK-47": {
+			"time": "03:20",
+			"type": "AR",
+			"star": "3",
+			"img_url": "http://en.gfwiki.com/images/f/f8/AK-47.png",
+			"number": "58",
+			"buff_graphic": "⚫⚫⚫\n⚫⚪⚫\n⚫🔵⚫",
+			"buff_description": "회피18%",
+			"skill_name": "기습공격",
+			"skill_description": "자신의 화력을 35% 명중을 100% 상승시킨다. 지속시간 5초",
+			"illustrator": "厕所董事长",
+			"CV": "Rina Sato",
+			"gun_name_KR": "AK-47"
+		}
+	},
+	{
+		"FNC": {
+			"time": "03:20",
+			"type": "AR",
+			"star": "3",
+			"img_url": "http://en.gfwiki.com/images/e/ec/FNC.png",
+			"number": "70",
+			"buff_graphic": "⚫⚫🔵\n⚫⚪⚫\n⚫⚫⚫",
+			"buff_description": "명중50%, 회피12%",
+			"skill_name": "화력전개",
+			"skill_description": "자신의 화력을 60% 상승시킨다. 지속시간 5초",
+			"illustrator": "麻将",
+			"CV": "Sumire Yatsurugi",
+			"gun_name_KR": "FNC"
+		}
+	},
+	{
+		"BM59": {
+			"time": "03:20",
+			"type": "RF",
+			"star": "2",
+			"img_url": "http://en.gfwiki.com/images/8/88/BM59.png",
+			"number": "52",
+			"buff_graphic": "⚫⚫⚫\n⚫⚪🔵\n⚫⚫⚫",
+			"buff_description": "쿨타임 감소10%",
+			"skill_name": "고속사격",
+			"skill_description": "자신의 사속을 55% 상승시킨다. 지속시간 5초",
+			"illustrator": "原子Dan",
+			"CV": "Tomoyo Chuujou",
+			"gun_name_KR": "BM59"
+		}
+	},
+	{
+		"Type 56-1": {
+			"time": "03:25",
+			"type": "AR",
+			"star": "4",
+			"img_url": "http://en.gfwiki.com/images/6/65/Type_56-1.png",
+			"number": "66",
+			"buff_graphic": "⚫⚫⚫\n⚫⚪🔵\n⚫⚫⚫",
+			"buff_description": "회피15%, 치명10%",
+			"skill_name": "파열류탄",
+			"skill_description": "유탄을 발사하여 반경 1/2.5/4범위 내의 적들에게 각각 공격력의 5/2/1배의 피해를 입힌다.",
+			"illustrator": "CanceR",
+			"CV": "Sora Amamiya",
+			"gun_name_KR": "56-1식"
+		}
+	},
+	{
+		"AS VAL": {
+			"time": "03:30",
+			"type": "AR",
+			"star": "4",
+			"img_url": "http://en.gfwiki.com/images/e/ec/AS_Val.png",
+			"number": "60",
+			"buff_graphic": "⚫🔵⚫\n⚫⚪⚫\n⚫⚫⚫",
+			"buff_description": "화력25%, 사속10%",
+			"skill_name": "화력전개N",
+			"skill_description": "야간작전에서 자신의 화력을 180% 상승시킨다. (주간 보정치 : 60%) 지속시간 6초",
+			"illustrator": "防弹乳牛",
+			"CV": "Uesaka Sumire",
+			"gun_name_KR": "AS Val"
+		}
+	},
+	{
+		"FAMAS": {
+			"time": "03:30",
+			"type": "AR",
+			"star": "4",
+			"img_url": "http://en.gfwiki.com/images/2/21/FAMAS.png",
+			"number": "69",
+			"buff_graphic": "⚫⚫⚫\n⚫⚪⚫\n⚫⚫🔵",
+			"buff_description": "화력25%, 명중60%",
+			"skill_name": "파열류탄",
+			"skill_description": "유탄을 발사하여 반경 1/2.5/4범위 내의 적들에게 각각 공격력의 5/2/1배의 피해를 입힌다.",
+			"illustrator": "KY",
+			"CV": "Eriko Matsui",
+			"gun_name_KR": "FAMAS"
+		}
+	},
+	{
+		"TAR-21": {
+			"time": "03:30",
+			"type": "AR",
+			"star": "4",
+			"img_url": "http://en.gfwiki.com/images/8/8c/TAR-21.png",
+			"number": "72",
+			"buff_graphic": "⚫⚫🔵\n⚫⚪⚫\n⚫⚫🔵",
+			"buff_description": "회피18%",
+			"skill_name": "강행돌파",
+			"skill_description": "자신의 화력을 65% 사속을 25% 상승시킨다. 지속시간 5초",
+			"illustrator": "木shiyo",
+			"CV": "Yume Maihara",
+			"gun_name_KR": "TAR-21"
+		}
+	},
+	{
+		"SVT-38": {
+			"time": "03:30",
+			"type": "RF",
+			"star": "2",
+			"img_url": "http://en.gfwiki.com/images/2/2b/SVT-38.png",
+			"number": "40",
+			"buff_graphic": "⚫⚫⚫\n⚫⚪🔵\n⚫⚫⚫",
+			"buff_description": "쿨타임 감소10%",
+			"skill_name": "목표제거",
+			"skill_description": "1.5초간 조준 후 특정한 타깃에게 공격력의 5배의 피해를 입힌다.",
+			"illustrator": "sola7764",
+			"CV": "Kaori Ide",
+			"gun_name_KR": "SVT-38"
+		}
+	},
+	{
+		"Simonov": {
+			"time": "03:30",
+			"type": "RF",
+			"star": "2",
+			"img_url": "http://en.gfwiki.com/images/9/93/Simonov.png",
+			"number": "41",
+			"buff_graphic": "⚫🔵⚫\n⚫⚪⚫\n⚫🔵⚫",
+			"buff_description": "쿨타임 감소10%",
+			"skill_name": "고속사격",
+			"skill_description": "자신의 사속을 55% 상승시킨다. 지속시간 5초",
+			"illustrator": "phantania",
+			"CV": "Aya Suzaki",
+			"gun_name_KR": "시모노프"
+		}
+	},
+	{
+		"9A-91": {
+			"time": "03:35",
+			"type": "AR",
+			"star": "4",
+			"img_url": "http://en.gfwiki.com/images/a/a4/9A-91.png",
+			"number": "118",
+			"buff_graphic": "⚫⚫🔵\n⚫⚪⚫\n⚫⚫🔵",
+			"buff_description": "사속10%, 회피15%",
+			"skill_name": "화력전개N",
+			"skill_description": "야간작전에서 자신의 화력을 180% 상승시킨다. (주간 보정치 : 60%) 지속시간 6초",
+			"illustrator": "防弹乳牛",
+			"CV": "Mai Nakahara",
+			"gun_name_KR": "9A-91"
+		}
+	},
+	{
+		"G36": {
+			"time": "03:40",
+			"type": "AR",
+			"star": "4",
+			"img_url": "http://en.gfwiki.com/images/5/51/G36.png",
+			"number": "64",
+			"buff_graphic": "⚫⚫⚫\n⚫⚪🔵\n⚫⚫🔵",
+			"buff_description": "화력30%, 사속10%",
+			"skill_name": "화력전개T",
+			"skill_description": "자신의 화력을 70% 상승시킨다. 지속시간 10초",
+			"illustrator": "薯子Imoko",
+			"CV": "Koshimizu Ami",
+			"gun_name_KR": "G36"
+		}
+	},
+	{
+		"M14": {
+			"time": "03:40",
+			"type": "RF",
+			"star": "3",
+			"img_url": "http://en.gfwiki.com/images/b/b4/M14.png",
+			"number": "37",
+			"buff_graphic": "⚫⚫🔵\n⚫⚪⚫\n⚫⚫🔵",
+			"buff_description": "쿨타임 감소12%",
+			"skill_name": "화력전개",
+			"skill_description": "자신의 화력을 60% 상승시킨다. 지속시간 5초",
+			"illustrator": "Rain Lan",
+			"CV": "Saori Onishi ",
+			"gun_name_KR": "M14"
+		}
+	},
+	{
+		"SV-98": {
+			"time": "03:40",
+			"type": "RF",
+			"star": "3",
+			"img_url": "http://en.gfwiki.com/images/2/25/SV-98.png",
+			"number": "44",
+			"buff_graphic": "⚫⚫⚫\n⚫⚪⚫\n⚫⚫🔵",
+			"buff_description": "쿨타임 감소12%",
+			"skill_name": "확인사살",
+			"skill_description": "1.5초간 조준 후 가장 가까운 타깃에게 공격력의 5.5배의 피해를 입힌다.",
+			"illustrator": "幻象黑兔",
+			"CV": "Mamiko Hanada",
+			"gun_name_KR": "SV-98"
+		}
+	},
+	{
+		"FAL": {
+			"time": "03:45",
+			"type": "AR",
+			"star": "5",
+			"img_url": "http://en.gfwiki.com/images/e/e9/FAL.png",
+			"number": "106",
+			"buff_graphic": "⚫⚫🔵\n⚫⚪🔵\n⚫⚫🔵",
+			"buff_description": "회피20%",
+			"skill_name": "유탄폭격",
+			"skill_description": "3발의 유탄을 연속으로 발사하여 각 발당 반경 1.5범위 내의 적들에게 공격력의 5배의 피해를 입힌다.",
+			"illustrator": "水乌龟",
+			"CV": "Haruka Yoshimura",
+			"gun_name_KR": "FAL"
+		}
+	},
+	{
+		"Hanyang Type 88": {
+			"time": "03:50",
+			"type": "RF",
+			"star": "3",
+			"img_url": "http://en.gfwiki.com/images/4/4f/Hanyang_Type_88.png",
+			"number": "95",
+			"buff_graphic": "⚫⚫⚫\n⚫⚪🔵\n⚫⚫⚫",
+			"buff_description": "쿨타임 감소12%",
+			"skill_name": "화력전개N",
+			"skill_description": "야간작전에서 자신의 화력을 90% 상승시킨다. (주간 보정치 : 30%) 지속시간 6초",
+			"illustrator": "团子",
+			"CV": "Yuuka Aisaka",
+			"gun_name_KR": "한양조 88식"
+		}
+	},
+	{
+		"OTs-44": {
+			"time": "03:50",
+			"type": "RF",
+			"star": "3",
+			"img_url": "http://en.gfwiki.com/images/0/0d/OTs-44.png",
+			"number": "145",
+			"buff_graphic": "⚫⚫🔵\n⚫⚪⚫\n⚫⚫🔵",
+			"buff_description": "쿨타임 감소12%",
+			"skill_name": "정밀저격",
+			"skill_description": "2초간 조준 후 현재 공격하던 타깃에게 공격력의 6.5배의 피해를 입힌다.",
+			"illustrator": "rosele",
+			"CV": "Rie Takahashi",
+			"gun_name_KR": "OTs-44"
+		}
+	},
+	{
+		"Type 95": {
+			"time": "03:50",
+			"type": "AR",
+			"star": "5",
+			"img_url": "http://en.gfwiki.com/images/e/ee/Type_95.png",
+			"number": "129",
+			"buff_graphic": "⚫⚫⚫\n⚫⚪⚫\n⚫⚫🔵",
+			"buff_description": "화력10%, 회피18%",
+			"skill_name": "화력전개T",
+			"skill_description": "자신의 화력을 50% 상승시킨다. 지속시간 15초",
+			"illustrator": "木shiyo",
+			"CV": "Kami Daimon",
+			"gun_name_KR": "95식"
+		}
+	},
+	{
+		"Type 97": {
+			"time": "03:50",
+			"type": "AR",
+			"star": "5",
+			"img_url": "http://en.gfwiki.com/images/6/6b/Type_97.png",
+			"number": "130",
+			"buff_graphic": "⚫⚫🔵\n⚫⚪⚫\n⚫⚫⚫",
+			"buff_description": "사속10%, 회피18%",
+			"skill_name": "고속사격T",
+			"skill_description": "자신의 사속을 50% 상승시킨다. 지속시간 15초",
+			"illustrator": "木shiyo",
+			"CV": "Ayane Sakura",
+			"gun_name_KR": "97식"
+		}
+	},
+	{
+		"HK416": {
+			"time": "03:55",
+			"type": "AR",
+			"star": "5",
+			"img_url": "http://en.gfwiki.com/images/9/9a/HK416.png",
+			"number": "65",
+			"buff_graphic": "⚫⚫⚫\n⚫⚪🔵\n⚫⚫⚫",
+			"buff_description": "화력40%",
+			"skill_name": "살상류탄",
+			"skill_description": "유탄을 발사하여 반경 1.5범위 내의 적들에게 공격력의 15배의 피해를 입힌다.",
+			"illustrator": "NIXOO",
+			"CV": "Ai Nonaka",
+			"gun_name_KR": "HK416"
+		}
+	},
+	{
+		"M1 Garand": {
+			"time": "04:00",
+			"type": "RF",
+			"star": "3",
+			"img_url": "http://en.gfwiki.com/images/5/5f/M1_Garand.png",
+			"number": "34",
+			"buff_graphic": "⚫⚫⚫\n⚫⚪🔵\n⚫⚫⚫",
+			"buff_description": "쿨타임 감소12%",
+			"skill_name": "정밀저격",
+			"skill_description": "1.5초간 조준 후 현재 공격하던 타깃에게 공격력의 5.5배의 피해를 입힌다.",
+			"illustrator": "哈路卡",
+			"CV": "Risa Taneda",
+			"gun_name_KR": "M1 개런드"
+		}
+	},
+	{
+		"G11": {
+			"time": "04:04",
+			"type": "AR",
+			"star": "5",
+			"img_url": "http://en.gfwiki.com/images/f/f2/G11.png",
+			"number": "122",
+			"buff_graphic": "⚫⚫⚫\n⚫⚪🔵\n⚫⚫⚫",
+			"buff_description": "화력30%, 회피10%",
+			"skill_name": "호크아이",
+			"skill_description": "매 공격시 목표대상에게 3회의 피해를 입힌다. 지속시간 4.5초",
+			"illustrator": "音符",
+			"CV": "Ayaka Fukuhara",
+			"gun_name_KR": "G11"
+		}
+	},
+	{
+		"G41": {
+			"time": "04:05",
+			"type": "AR",
+			"star": "5",
+			"img_url": "http://en.gfwiki.com/images/7/71/G41.png",
+			"number": "62",
+			"buff_graphic": "⚫⚫🔵\n⚫⚪⚫\n⚫⚫🔵",
+			"buff_description": "명중50%, 회피15%",
+			"skill_name": "화력전개T",
+			"skill_description": "자신의 화력을 75% 상승시킨다. 지속시간 10초",
+			"illustrator": "NS",
+			"CV": "Rie Kugimiya",
+			"gun_name_KR": "G41"
+		}
+	},
+	{
+		"Mosin–Nagant": {
+			"time": "04:10",
+			"type": "RF",
+			"star": "4",
+			"img_url": "http://en.gfwiki.com/images/d/dc/Mosin-Nagant.png",
+			"number": "39",
+			"buff_graphic": "⚫⚫⚫\n⚫⚪⚫\n⚫🔵⚫",
+			"buff_description": "쿨타임 감소15%",
+			"skill_name": "저격개시",
+			"skill_description": "1.5초간 조준 후 가장 멀리있는 타깃에게 공격력의 6배의 피해를 입힌다.",
+			"illustrator": "防弹乳牛",
+			"CV": "Uesaka Sumire",
+			"gun_name_KR": "모신나강"
+		}
+	},
+	{
+		"SVD": {
+			"time": "04:15",
+			"type": "RF",
+			"star": "4",
+			"img_url": "http://en.gfwiki.com/images/3/33/SVD.png",
+			"number": "43",
+			"buff_graphic": "⚫⚫🔵\n⚫⚪⚫\n⚫⚫🔵",
+			"buff_description": "쿨타임 감소15%",
+			"skill_name": "고속사격",
+			"skill_description": "자신의 사속을 65% 상승시킨다. 지속시간 5초",
+			"illustrator": "幻象黑兔",
+			"CV": "Minami Tanaka",
+			"gun_name_KR": "SVD"
+		}
+	},
+	{
+		"PSG-1": {
+			"time": "04:20",
+			"type": "RF",
+			"star": "4",
+			"img_url": "http://en.gfwiki.com/images/8/8d/PSG-1.png",
+			"number": "117",
+			"buff_graphic": "⚫🔵⚫\n⚫⚪⚫\n⚫🔵⚫",
+			"buff_description": "쿨타임 감소15%",
+			"skill_name": "저격개시",
+			"skill_description": "1.5초간 조준 후 가장 멀리있는 타깃에게 공격력의 6배의 피해를 입힌다.",
+			"illustrator": "CanceR",
+			"CV": "Asami Imai",
+			"gun_name_KR": "PSG-1"
+		}
+	},
+	{
+		"G28": {
+			"time": "04:20",
+			"type": "RF",
+			"star": "4",
+			"img_url": "http://en.gfwiki.com/images/d/d3/G28.png",
+			"number": "146",
+			"buff_graphic": "⚫🔵⚫\n⚫⚪⚫\n⚫🔵⚫",
+			"buff_description": "쿨타임 감소15%",
+			"skill_name": "화력전개",
+			"skill_description": "자신의 화력을 65% 상승시킨다. 지속시간 5초",
+			"illustrator": "工口牛",
+			"CV": "Nozomi Yamamoto",
+			"gun_name_KR": "G28"
+		}
+	},
+	{
+		"Springfield": {
+			"time": "04:25",
+			"type": "RF",
+			"star": "4",
+			"img_url": "http://en.gfwiki.com/images/7/71/Springfield.png",
+			"number": "36",
+			"buff_graphic": "⚫⚫🔵\n⚫⚪⚫\n⚫⚫⚫",
+			"buff_description": "쿨타임 감소15%",
+			"skill_name": "저격개시",
+			"skill_description": "1.5초간 조준 후 가장 멀리있는 타깃에게 공격력의 6배의 피해를 입힌다.",
+			"illustrator": "多元菌",
+			"CV": "Yui Horie",
+			"gun_name_KR": "스프링필드"
+		}
+	},
+	{
+		"PTRD": {
+			"time": "04:30",
+			"type": "RF",
+			"star": "4",
+			"img_url": "http://en.gfwiki.com/images/a/a6/PTRD.png",
+			"number": "42",
+			"buff_graphic": "⚫🔵⚫\n⚫⚪⚫\n⚫⚫⚫",
+			"buff_description": "쿨타임 감소15%",
+			"skill_name": "확인사살",
+			"skill_description": "2초간 조준 후 가장 가까운 타깃에게 공격력의 7배의 피해를 입힌다.",
+			"illustrator": "Evan揚",
+			"CV": "Ai Shimizu ",
+			"gun_name_KR": "PTRD"
+		}
+	},
+	{
+		"Kar98k": {
+			"time": "04:40",
+			"type": "RF",
+			"star": "5",
+			"img_url": "http://en.gfwiki.com/images/6/65/Kar98k.png",
+			"number": "46",
+			"buff_graphic": "⚫⚫🔵\n⚫⚪⚫\n⚫⚫🔵",
+			"buff_description": "쿨타임 감소18%",
+			"skill_name": "이중저격",
+			"skill_description": "1초씩 두번 조준 사격하며 각각 현재 타깃에게 공격력의 3.5배의 데미지를 입힌다.",
+			"illustrator": "samail",
+			"CV": "Ai Kayano ",
+			"gun_name_KR": "Kar98k"
+		}
+	},
+	{
+		"NTW-20": {
+			"time": "04:45",
+			"type": "RF",
+			"star": "5",
+			"img_url": "http://en.gfwiki.com/images/3/35/NTW-20.png",
+			"number": "53",
+			"buff_graphic": "⚫⚫⚫\n⚫⚪🔵\n⚫⚫⚫",
+			"buff_description": "쿨타임 감소18%",
+			"skill_name": "확인사살",
+			"skill_description": "2초간 조준 후 가장 가까운 타깃에게 공격력의 8배의 피해를 입힌다.",
+			"illustrator": "RAN",
+			"CV": "Ai Kayano ",
+			"gun_name_KR": "NTW-20"
+		}
+	},
+	{
+		"WA2000": {
+			"time": "04:50",
+			"type": "RF",
+			"star": "5",
+			"img_url": "http://en.gfwiki.com/images/9/9c/WA2000.png",
+			"number": "48",
+			"buff_graphic": "⚫⚫⚫\n⚫⚪🔵\n⚫⚫⚫",
+			"buff_description": "쿨타임 감소18%",
+			"skill_name": "고속사격",
+			"skill_description": "자신의 사속을 75% 상승시킨다. 지속시간 5초",
+			"illustrator": "多元菌",
+			"CV": "Haruka Tomatsu",
+			"gun_name_KR": "WA2000"
+		}
+	},
+	{
+		"AAT-52": {
+			"time": "04:50",
+			"type": "MG",
+			"star": "2",
+			"img_url": "http://en.gfwiki.com/images/0/02/AAT-52.png",
+			"number": "111",
+			"buff_graphic": "⚪⚫⚫\n⚫⚫⚫\n⚫⚫🔵",
+			"buff_description": "사속20%",
+			"skill_name": "화력전개N-MG",
+			"skill_description": "야간작전에서 자신의 화력을 85% 상승시킨다. (주간 보정치 : 30%) 지속시간 6초",
+			"illustrator": "Lino",
+			"CV": "Yumi Uchiyama",
+			"gun_name_KR": "AAT-52"
+		}
+	},
+	{
+		"FG42": {
+			"time": "04:50",
+			"type": "MG",
+			"star": "2",
+			"img_url": "http://en.gfwiki.com/images/e/e3/FG42.png",
+			"number": "110",
+			"buff_graphic": "⚫⚫🔵\n⚪⚫⚫\n⚫⚫🔵",
+			"buff_description": "명중30%",
+			"skill_name": "사냥충동",
+			"skill_description": "자신의 명중을 60% 상승시키며 지속시간 동안 모든 공격이 치명타로 적용된다. 지속시간 6초",
+			"illustrator": "叽困",
+			"CV": "Asuka Ito",
+			"gun_name_KR": "FG42"
+		}
+	},
+	{
+		"M99": {
+			"time": "04:55",
+			"type": "RF",
+			"star": "5",
+			"img_url": "http://en.gfwiki.com/images/1/13/M99.png",
+			"number": "128",
+			"buff_graphic": "⚫⚫⚫\n⚫⚪🔵\n⚫⚫⚫",
+			"buff_description": "쿨타임 감소18%",
+			"skill_name": "저격개시",
+			"skill_description": "2초간 조준 후 가장 멀리있는 타깃에게 공격력의 8배의 피해를 입힌다.",
+			"illustrator": "Saru",
+			"CV": "Rumi Ookubo",
+			"gun_name_KR": "M99"
+		}
+	},
+	{
+		"Lee-Enfield": {
+			"time": "05:00",
+			"type": "RF",
+			"star": "5",
+			"img_url": "http://en.gfwiki.com/images/4/4d/Lee-Enfield.png",
+			"number": "50",
+			"buff_graphic": "⚫🔵⚫\n⚫⚪⚫\n⚫🔵⚫",
+			"buff_description": "쿨타임 감소18%",
+			"skill_name": "화력전개",
+			"skill_description": "자신의 화력을 75% 상승시킨다. 지속시간 5초",
+			"illustrator": "rei",
+			"CV": "Haruka Tomatsu",
+			"gun_name_KR": "리엔필드"
+		}
+	},
+	{
+		"MG34": {
+			"time": "05:00",
+			"type": "MG",
+			"star": "2",
+			"img_url": "http://en.gfwiki.com/images/0/0d/MG34.png",
+			"number": "87",
+			"buff_graphic": "⚫⚫🔵\n⚫⚫⚫\n⚪⚫⚫",
+			"buff_description": "화력20%",
+			"skill_name": "화력전개MG",
+			"skill_description": "자신의 화력을 60% 상승시킨다. 지속시간 6초",
+			"illustrator": "spirtie",
+			"CV": "Tomoyo Chuujou",
+			"gun_name_KR": "MG34"
+		}
+	},
+	{
+		"DP28": {
+			"time": "05:00",
+			"type": "MG",
+			"star": "2",
+			"img_url": "http://en.gfwiki.com/images/c/cf/DP28.png",
+			"number": "82",
+			"buff_graphic": "⚫⚫🔵\n⚫⚫⚫\n⚪⚫🔵",
+			"buff_description": "사속15%",
+			"skill_name": "준비만전",
+			"skill_description": "8초 동안 자신의 화력을 28% 상승시키며 사격 중 장탄수를 3발 추가한다.",
+			"illustrator": "BIBIA",
+			"CV": "Kanae Ikadai",
+			"gun_name_KR": "DP28"
+		}
+	},
+	{
+		"LWMMG": {
+			"time": "05:10",
+			"type": "MG",
+			"star": "2",
+			"img_url": "http://en.gfwiki.com/images/f/f9/LWMMG.png",
+			"number": "81",
+			"buff_graphic": "⚫⚫⚫\n⚪⚫🔵\n⚫⚫⚫",
+			"buff_description": "화력10%, 사속10%",
+			"skill_name": "사냥충동",
+			"skill_description": "자신의 명중을 60% 상승시키며 지속시간 동안 모든 공격이 치명타로 적용된다. 지속시간 6초",
+			"illustrator": "RFF",
+			"CV": "Hiyori Nitta",
+			"gun_name_KR": "LWMMG"
+		}
+	},
+	{
+		"Bren": {
+			"time": "05:20",
+			"type": "MG",
+			"star": "3",
+			"img_url": "http://en.gfwiki.com/images/a/a4/Bren.png",
+			"number": "89",
+			"buff_graphic": "⚪⚫🔵\n⚫⚫⚫\n⚫⚫🔵",
+			"buff_description": "사속10%, 명중12%",
+			"skill_name": "준비만전",
+			"skill_description": "8초 동안 자신의 화력을 30% 상승시키며 사격 중 장탄수를 3발 추가한다.",
+			"illustrator": "废人",
+			"CV": "Sora Amamiya",
+			"gun_name_KR": "브렌"
+		}
+	},
+	{
+		"M1919A4": {
+			"time": "05:40",
+			"type": "MG",
+			"star": "3",
+			"img_url": "http://en.gfwiki.com/images/6/60/M1919A4.png",
+			"number": "80",
+			"buff_graphic": "⚫⚫🔵\n⚫⚫⚫\n⚪⚫⚫",
+			"buff_description": "명중25%, 장갑10%",
+			"skill_name": "사냥충동",
+			"skill_description": "자신의 명중을 65% 상승시키며 지속시간 동안 모든 공격이 치명타로 적용된다. 지속시간 6초",
+			"illustrator": "AS109",
+			"CV": "Sachiyo Yoshida",
+			"gun_name_KR": "M1919A4"
+		}
+	},
+	{
+		"MG42": {
+			"time": "05:50",
+			"type": "MG",
+			"star": "3",
+			"img_url": "http://en.gfwiki.com/images/7/75/MG42.png",
+			"number": "86",
+			"buff_graphic": "⚪⚫⚫\n⚫⚫⚫\n⚫⚫🔵",
+			"buff_description": "화력22%",
+			"skill_name": "화력전개MG",
+			"skill_description": "자신의 화력을 65% 상승시킨다. 지속시간 6초",
+			"illustrator": "spirtie",
+			"CV": "Sayaka Yokoya",
+			"gun_name_KR": "MG42"
+		}
+	},
+	{
+		"M2HB": {
+			"time": "06:10",
+			"type": "MG",
+			"star": "3",
+			"img_url": "http://en.gfwiki.com/images/8/89/M2HB.png",
+			"number": "77",
+			"buff_graphic": "⚫⚫⚫\n⚪⚫🔵\n⚫⚫⚫",
+			"buff_description": "화력22%",
+			"skill_name": "사중극점",
+			"skill_description": "패시브 스킬 매 3회 공격 시 그 다음 공격은 타깃에게 2.4배의 피해를 입힌다.",
+			"illustrator": "15K",
+			"CV": "Izumi Iwamatsu",
+			"gun_name_KR": "M2HB "
+		}
+	},
+	{
+		"M60": {
+			"time": "06:10",
+			"type": "MG",
+			"star": "4",
+			"img_url": "http://en.gfwiki.com/images/2/2a/M60.png",
+			"number": "78",
+			"buff_graphic": "⚪⚫🔵\n⚫⚫⚫\n⚫⚫🔵",
+			"buff_description": "화력10%, 사속8%",
+			"skill_name": "화력전개N-MG",
+			"skill_description": "야간작전에서 자신의 화력을 105% 상승시킨다. (주간 보정치 : 35%) 지속시간 6초",
+			"illustrator": "ミカピカゾ",
+			"CV": "Asuka Ito",
+			"gun_name_KR": "M60"
+		}
+	},
+	{
+		"Mk48": {
+			"time": "06:20",
+			"type": "MG",
+			"star": "4",
+			"img_url": "http://en.gfwiki.com/images/6/6a/Mk48.png",
+			"number": "121",
+			"buff_graphic": "⚫⚫🔵\n⚫⚫⚫\n⚪⚫🔵",
+			"buff_description": "사속18%",
+			"skill_name": "사냥충동",
+			"skill_description": "자신의 명중을 70% 상승시키며 지속시간 동안 모든 공격이 치명타로 적용된다. 지속시간 6초",
+			"illustrator": "SA",
+			"CV": "Ricca Tachibana",
+			"gun_name_KR": "Mk48"
+		}
+	},
+	{
+		"M1918": {
+			"time": "06:25",
+			"type": "MG",
+			"star": "4",
+			"img_url": "http://en.gfwiki.com/images/f/f4/M1918.png",
+			"number": "75",
+			"buff_graphic": "⚫⚫⚫\n⚪⚫🔵\n⚫⚫⚫",
+			"buff_description": "화력15%, 장갑10%",
+			"skill_name": "화력전개MG",
+			"skill_description": "자신의 화력을 70% 상승시킨다. 지속시간 6초",
+			"illustrator": "水乌龟",
+			"CV": "Yuuki Aoi",
+			"gun_name_KR": "M1918"
+		}
+	},
+	{
+		"MG3": {
+			"time": "06:30",
+			"type": "MG",
+			"star": "4",
+			"img_url": "http://en.gfwiki.com/images/a/a0/MG3.png",
+			"number": "88",
+			"buff_graphic": "⚫⚫🔵\n⚪⚫⚫\n⚫⚫🔵",
+			"buff_description": "화력10%, 명중15%",
+			"skill_name": "준비만전",
+			"skill_description": "8초 동안 자신의 화력을 30% 상승시키며 사격 중 장탄수를 4발 추가한다.",
+			"illustrator": "猫头神",
+			"CV": "Risa Taneda",
+			"gun_name_KR": "MG3"
+		}
+	},
+	{
+		"PK": {
+			"time": "06:30",
+			"type": "MG",
+			"star": "4",
+			"img_url": "http://en.gfwiki.com/images/3/32/PK.png",
+			"number": "85",
+			"buff_graphic": "⚫⚫🔵\n⚪⚫🔵\n⚫⚫⚫",
+			"buff_description": "화력18%",
+			"skill_name": "사중극점",
+			"skill_description": "패시브 스킬 매 3회 공격 시 그 다음 공격은 타깃에게 2.6배의 피해를 입힌다.",
+			"illustrator": "木shiyo",
+			"CV": "Kaori Nazuka",
+			"gun_name_KR": "PK"
+		}
+	},
+	{
+		"Negev": {
+			"time": "06:35",
+			"type": "MG",
+			"star": "5",
+			"img_url": "http://en.gfwiki.com/images/3/3c/Negev.png",
+			"number": "112",
+			"buff_graphic": "⚫⚫🔵\n⚪⚫🔵\n⚫⚫🔵",
+			"buff_description": "장갑20%",
+			"skill_name": "혈류가속",
+			"skill_description": "재장전 할 때 마다 25초간 자신의 화력이 50% 상승하는 버프를 받는다 (각 버프는 중첩가능)",
+			"illustrator": "十月十日奏",
+			"CV": "Ayaka Suwa",
+			"gun_name_KR": "네게브"
+		}
+	},
+	{
+		"MG4": {
+			"time": "06:40",
+			"type": "MG",
+			"star": "5",
+			"img_url": "http://en.gfwiki.com/images/2/24/MG4.png",
+			"number": "125",
+			"buff_graphic": "⚫⚫🔵\n⚪⚫⚫\n⚫⚫🔵",
+			"buff_description": "명중12%, 장갑15%",
+			"skill_name": "준비만전",
+			"skill_description": "8초 동안 자신의 화력을 35% 상승시키며 사격 중 장탄수를 4발 추가한다.",
+			"illustrator": "neco",
+			"CV": "Haruka Yoshimura",
+			"gun_name_KR": "MG4"
+		}
+	},
+	{
+		"MG5": {
+			"time": "06:45",
+			"type": "MG",
+			"star": "5",
+			"img_url": "http://en.gfwiki.com/images/6/6c/MG5.png",
+			"number": "109",
+			"buff_graphic": "⚫⚫🔵\n⚪⚫⚫\n⚫⚫🔵",
+			"buff_description": "화력10%, 장갑10%",
+			"skill_name": "사중극점",
+			"skill_description": "패시브 스킬 매 3회 공격 시 그 다음 공격은 타깃에게 3배의 피해를 입힌다.",
+			"illustrator": "音符",
+			"CV": "Koshimizu Ami",
+			"gun_name_KR": "MG5"
+		}
+	},
+	{
+		"M500": {
+			"time": "07:20",
+			"type": "SG",
+			"star": "3",
+			"img_url": "http://en.gfwiki.com/images/1/17/M500.png",
+			"number": "154",
+			"buff_graphic": "⚫⚫⚫\n⚫⚫⚫\n🔵⚫⚪",
+			"buff_description": "화력18%",
+			"skill_name": "집중방어",
+			"skill_description": "자신의 장갑을 60% 상승시킨다. 지속시간 6초",
+			"illustrator": "Ki桑",
+			"CV": "Ruriko Aoki",
+			"gun_name_KR": "M500"
+		}
+	},
+	{
+		"KS23": {
+			"time": "07:25",
+			"type": "SG",
+			"star": "3",
+			"img_url": "http://en.gfwiki.com/images/6/61/KS-23.png",
+			"number": "158",
+			"buff_graphic": "⚫⚫⚫\n⚫⚫⚫\n⚫⚫⚪",
+			"buff_description": "화력12%, 명중30%",
+			"skill_name": "화력전개SG",
+			"skill_description": "자신의 화력을 120% 상승시키며 지속시간 동안 동시공격 가능한 타깃수가 5명으로 늘어난다.(슬러그 탄의 효과와 중첩되지 않는다.) 지속시간8초",
+			"illustrator": "死盖",
+			"CV": "Hiromi Igarashi",
+			"gun_name_KR": "KS-23"
+		}
+	},
+	{
+		"RMB93": {
+			"time": "07:30",
+			"type": "SG",
+			"star": "3",
+			"img_url": "http://en.gfwiki.com/images/4/4a/RMB-93.png",
+			"number": "159",
+			"buff_graphic": "⚫⚫⚪\n⚫⚫⚫\n⚫⚫⚫",
+			"buff_description": "화력12%, 명중30%",
+			"skill_name": "진형붕괴",
+			"skill_description": "공격력의 2배의 피해를 주는 추가탄을 발사하고 거리 3칸 만큼 적을 밀어낸다.",
+			"illustrator": "Bison仓鼠",
+			"CV": "Rui Harinezumi",
+			"gun_name_KR": "RMB-93"
+		}
+	},
+	{
+		"M590": {
+			"time": "07:40",
+			"type": "SG",
+			"star": "4",
+			"img_url": "http://en.gfwiki.com/images/d/d4/M590.png",
+			"number": "155",
+			"buff_graphic": "🔵⚫⚪\n⚫⚫⚫\n⚫⚫⚫",
+			"buff_description": "명중55%",
+			"skill_name": "집중방어",
+			"skill_description": "자신의 장갑을 70% 상승시킨다. 지속시간 6초",
+			"illustrator": "防弹乳牛",
+			"CV": "Ruriko Aoki",
+			"gun_name_KR": "M590"
+		}
+	},
+	{
+		"M37": {
+			"time": "07:45",
+			"type": "SG",
+			"star": "4",
+			"img_url": "http://en.gfwiki.com/images/f/f0/M37.png",
+			"number": "153",
+			"buff_graphic": "🔵⚫⚫\n⚫⚫⚪\n🔵⚫⚫",
+			"buff_description": "화력18%",
+			"skill_name": "진형붕괴",
+			"skill_description": "공격력의 2.5배의 피해를 주는 추가탄을 발사하고 거리 3칸 만큼 적을 밀어낸다.",
+			"illustrator": "Rain Lan",
+			"CV": "Emiri Katou",
+			"gun_name_KR": "M37"
+		}
+	},
+	{
+		"KSG": {
+			"time": "08:00",
+			"type": "SG",
+			"star": "5",
+			"img_url": "http://en.gfwiki.com/images/e/e5/KSG.png",
+			"number": "157",
+			"buff_graphic": "🔵⚫⚫\n⚫⚫⚪\n🔵⚫⚫",
+			"buff_description": "화력20%",
+			"skill_name": "생존본능",
+			"skill_description": "자신의 장갑과 회피를 각각 60% 씩 상승시킨다. 지속시간 6초",
+			"illustrator": "neco",
+			"CV": "Shizuka Itou",
+			"gun_name_KR": "KSG"
+		}
+	},
+	{
+		"Glock 17": {
+			"time": "지역한정",
+			"type": "HG",
+			"star": "3",
+			"img_url": "http://en.gfwiki.com/images/e/e9/Glock_17.png",
+			"number": "15",
+			"buff_graphic": "🔵⚫🔵\n⚫⚪🔵\n🔵⚫🔵",
+			"buff_description": "명중64%, 회피30%",
+			"skill_name": "기선제압",
+			"skill_description": "적군 전체 화력을 25% 하락시킨다. 지속시간 8초",
+			"illustrator": "Rain Lan",
+			"CV": "Sora Tokui",
+			"gun_name_KR": "글록17"
+		}
+	},
+	{
+		"FMG-9": {
+			"time": "지역한정",
+			"type": "SMG",
+			"star": "3",
+			"img_url": "http://en.gfwiki.com/images/3/32/FMG-9.png",
+			"number": "19",
+			"buff_graphic": "🔵⚫⚫\n⚫⚪⚫\n🔵⚫⚫",
+			"buff_description": "화력10%, 회피12%",
+			"skill_name": "회피기동",
+			"skill_description": "자신의 회피를 120% 상승시킨다. 지속시간 5초",
+			"illustrator": "NorthAbyssor",
+			"CV": "Serizawa Yuu",
+			"gun_name_KR": "FMG-9"
+		}
+	},
+	{
+		"M1A1": {
+			"time": "지역한정",
+			"type": "RF",
+			"star": "3",
+			"img_url": "http://en.gfwiki.com/images/7/7d/M1A1.png",
+			"number": "35",
+			"buff_graphic": "⚫🔵⚫\n⚫⚪⚫\n⚫🔵⚫",
+			"buff_description": "쿨타임 감소12%",
+			"skill_name": "고속사격T",
+			"skill_description": "자신의 사속을 40% 상승시킨다. 지속시간 15초",
+			"illustrator": "哈路卡",
+			"CV": "Suzuko Mimori",
+			"gun_name_KR": "M1A1"
+		}
+	},
+	{
+		"M21": {
+			"time": "지역한정",
+			"type": "RF",
+			"star": "3",
+			"img_url": "http://en.gfwiki.com/images/6/61/M21.png",
+			"number": "38",
+			"buff_graphic": "⚫🔵⚫\n⚫⚪⚫\n⚫🔵⚫",
+			"buff_description": "쿨타임 감소12%",
+			"skill_name": "목표제거",
+			"skill_description": "1.5초간 조준 후 특정한 타깃에게 공격력의 5.5배의 피해를 입힌다.",
+			"illustrator": "卑しい人间",
+			"CV": "Eri Kitamura",
+			"gun_name_KR": "M21"
+		}
+	},
+	{
+		"Type 56-Semi": {
+			"time": "출석보상",
+			"type": "RF",
+			"star": "3",
+			"img_url": "http://en.gfwiki.com/images/0/07/Type_56.png",
+			"number": "49",
+			"buff_graphic": "⚫🔵⚫\n⚫⚪⚫\n⚫🔵⚫",
+			"buff_description": "쿨타임 감소12%",
+			"skill_name": "화력전개",
+			"skill_description": "자신의 화력을 60% 상승시킨다. 지속시간 5초",
+			"illustrator": "KAN",
+			"CV": "Rui Kariya",
+			"gun_name_KR": "56식 반"
+		}
+	},
+	{
+		"M16A1": {
+			"time": "지역보상",
+			"type": "AR",
+			"star": "4",
+			"img_url": "http://en.gfwiki.com/images/8/85/M16A1.png",
+			"number": "54",
+			"buff_graphic": "⚫🔵🔵\n⚫⚪⚫\n⚫🔵🔵",
+			"buff_description": "화력10%, 회피12%",
+			"skill_name": "섬광탄",
+			"skill_description": "섬광탄을 투척하여 반경 2.5범위 내의 적들을 4초 동안 기절 상태로 만든다.",
+			"illustrator": "海猫络合物",
+			"CV": "Nozomi Amane",
+			"gun_name_KR": "M16A1"
+		}
+	},
+	{
+		"M4A1": {
+			"time": "지역보상",
+			"type": "AR",
+			"star": "4",
+			"img_url": "http://en.gfwiki.com/images/a/a1/M4A1.png",
+			"number": "55",
+			"buff_graphic": "⚫🔵🔵\n⚫⚪🔵\n⚫🔵🔵",
+			"buff_description": "화력18%, 치명30%",
+			"skill_name": "화력전개T",
+			"skill_description": "자신의 화력을 70% 상승시킨다. 지속시간 10초",
+			"illustrator": "海猫络合物",
+			"CV": "Haruka Tomatsu",
+			"gun_name_KR": "M4A1"
+		}
+	},
+	{
+		"M4 SOPMODII": {
+			"time": "지역보상",
+			"type": "AR",
+			"star": "4",
+			"img_url": "http://en.gfwiki.com/images/d/d3/M4_SOPMOD_II.png",
+			"number": "56",
+			"buff_graphic": "⚫⚫🔵\n⚫⚪🔵\n⚫⚫🔵",
+			"buff_description": "명중50%, 회피12%",
+			"skill_name": "살상류탄",
+			"skill_description": "유탄을 발사하여 반경 1.5범위 내의 적들에게 공격력의 12배의 피해를 입힌다.",
+			"illustrator": "海猫络合物",
+			"CV": "Yukari Tamura",
+			"gun_name_KR": "M4 SOPMODII"
+		}
+	},
+	{
+		"ST AR-15": {
+			"time": "지역보상",
+			"type": "AR",
+			"star": "4",
+			"img_url": "http://en.gfwiki.com/images/2/2e/ST_AR-15.png",
+			"number": "57",
+			"buff_graphic": "⚫⚫🔵\n⚫⚪🔵\n⚫⚫🔵",
+			"buff_description": "사속10%, 회피12%",
+			"skill_name": "고속사격T",
+			"skill_description": "자신의 사속을 45% 상승시킨다. 지속시간 15초",
+			"illustrator": "LIN+",
+			"CV": "Emiri Katou",
+			"gun_name_KR": "ST AR-15"
+		}
+	},
+	{
+		"M249 SAW": {
+			"time": "지역한정",
+			"type": "MG",
+			"star": "3",
+			"img_url": "http://en.gfwiki.com/images/5/55/M249_SAW.png",
+			"number": "79",
+			"buff_graphic": "⚫⚫⚫\n⚪⚫🔵\n⚫⚫🔵",
+			"buff_description": "사속12%, 명중10%",
+			"skill_name": "준비만전N",
+			"skill_description": "야간작전에서 8초 동안 자신의 화력을 45% (주간 보정치 : 15%) 상승시키며 사격 중 장탄수를 4발 추가한다.",
+			"illustrator": "雪樱樱",
+			"CV": "Yoshino Nanjo",
+			"gun_name_KR": "M249 SAW"
+		}
+	},
+	{
+		"RPD": {
+			"time": "출석보상",
+			"type": "MG",
+			"star": "3",
+			"img_url": "http://en.gfwiki.com/images/d/dc/RPD.png",
+			"number": "84",
+			"buff_graphic": "⚫⚫🔵\n⚪⚫⚫\n⚫⚫🔵",
+			"buff_description": "사속16%",
+			"skill_name": "화력전개MG",
+			"skill_description": "자신의 화력을 65% 상승시킨다. 지속시간 6초",
+			"illustrator": "Sam_Ashton",
+			"CV": "Iori Nomizu",
+			"gun_name_KR": "RPD"
+		}
+	},
+	{
+		"SPP-1": {
+			"time": "큐브보상",
+			"type": "HG",
+			"star": "4",
+			"img_url": "http://en.gfwiki.com/images/4/47/SPP-1.png",
+			"number": "98",
+			"buff_graphic": "🔵🔵⚫\n⚫⚪⚫\n🔵🔵⚫",
+			"buff_description": "화력12%, 명중90%",
+			"skill_name": "퇴로차단",
+			"skill_description": "적군 전체 회피를 55% 감소시킨다. 지속시간 8초",
+			"illustrator": "麻将",
+			"CV": "Yuka Ootsubo",
+			"gun_name_KR": "SPP-1"
+		}
+	},
+	{
+		"CZ-805": {
+			"time": "지역한정",
+			"type": "AR",
+			"star": "3",
+			"img_url": "http://en.gfwiki.com/images/8/82/CZ-805.png",
+			"number": "108",
+			"buff_graphic": "⚫⚫🔵\n⚫⚪⚫\n⚫⚫🔵",
+			"buff_description": "사속25%, 명중50%",
+			"skill_name": "파열류탄",
+			"skill_description": "유탄을 발사하여 반경 1/2.5/4범위 내의 적들에게 각각 공격력의 4.5/1.8/1배의 피해를 입힌다.",
+			"illustrator": "木子翔",
+			"CV": "Maaya Uchida",
+			"gun_name_KR": "CZ-805"
+		}
+	},
+	{
+		"Serdyukov": {
+			"time": "출석보상",
+			"type": "HG",
+			"star": "3",
+			"img_url": "http://en.gfwiki.com/images/8/86/Serdyukov.png",
+			"number": "113",
+			"buff_graphic": "⚫🔵⚫\n🔵⚪⚫\n⚫🔵⚫",
+			"buff_description": "화력24%, 명중40%",
+			"skill_name": "일제사격",
+			"skill_description": "아군 전체 화력을 20% 상승시킨다. 지속시간 8초",
+			"illustrator": "能登ツグミ",
+			"CV": "Minami Tanaka",
+			"gun_name_KR": "세르듀코프"
+		}
+	},
+	{
+		"OTs-14": {
+			"time": "큐브보상",
+			"type": "AR",
+			"star": "5",
+			"img_url": "http://en.gfwiki.com/images/9/93/OTs-14.png",
+			"number": "119",
+			"buff_graphic": "⚫⚫🔵\n⚫⚪🔵\n⚫⚫🔵",
+			"buff_description": "사속25%, 명중65%",
+			"skill_name": "화력전개N",
+			"skill_description": "야간작전에서 자신의 화력을 200% 상승시킨다. (주간 보정치 : 70%) 지속시간 6초",
+			"illustrator": "ASK",
+			"CV": "Marina Inoue",
+			"gun_name_KR": "OTs-14"
+		}
+	},
+	{
+		"Super SASS": {
+			"time": "출석보상",
+			"type": "RF",
+			"star": "3",
+			"img_url": "http://en.gfwiki.com/images/6/6a/Super_SASS.png",
+			"number": "124",
+			"buff_graphic": "⚫⚫🔵\n⚫⚪⚫\n⚫⚫⚫",
+			"buff_description": "쿨타임 감소12%",
+			"skill_name": "목표제거",
+			"skill_description": "1.5초간 조준 후 특정한 타깃에게 공격력의 5.5배의 피해를 입힌다.",
+			"illustrator": "受菟",
+			"CV": "Ricca Tachibana",
+			"gun_name_KR": "Super SASS"
+		}
+	},
+	{
+		"NZ75": {
+			"time": "출석보상",
+			"type": "HG",
+			"star": "5",
+			"img_url": "http://en.gfwiki.com/images/0/0b/NZ75.png",
+			"number": "126",
+			"buff_graphic": "⚫🔵🔵\n🔵⚪🔵\n⚫🔵🔵",
+			"buff_description": "화력20%, 회피30%",
+			"skill_name": "격발차단",
+			"skill_description": "적군 전체 사속을 30% 감소시킨다. 지속시간 8초",
+			"illustrator": "音符",
+			"CV": "Shiki Aoki",
+			"gun_name_KR": "NZ75"
+		}
+	},
+	{
+		"EVO 3": {
+			"time": "출석보상",
+			"type": "SMG",
+			"star": "3",
+			"img_url": "http://en.gfwiki.com/images/7/7d/EVO_3.png",
+			"number": "131",
+			"buff_graphic": "⚫⚫⚫\n🔵⚪⚫\n⚫⚫⚫",
+			"buff_description": "명중55%",
+			"skill_name": "수류탄",
+			"skill_description": "수류탄을 투척하여 반경 2.5범위 내의 적들에게 공격력의 6배의 피해를 입힌다.",
+			"illustrator": "钉田西瓜",
+			"CV": "Nozomi Yamamoto",
+			"gun_name_KR": "EVO 3"
+		}
+	},
+	{
+		"Type 59": {
+			"time": "출석보상",
+			"type": "HG",
+			"star": "3",
+			"img_url": "http://en.gfwiki.com/images/7/79/Type_59.png",
+			"number": "132",
+			"buff_graphic": "⚫🔵🔵\n⚫⚪🔵\n⚫🔵🔵",
+			"buff_description": "화력20%, 명중50%",
+			"skill_name": "퇴로차단N",
+			"skill_description": "야간작전에서 적군 전체 회피를 75% 감소시킨다. (주간 보정치 : 40%) 지속시간 8초(주간 보정치 : 5초)",
+			"illustrator": "麻将",
+			"CV": "Emiri Katou",
+			"gun_name_KR": "59식"
+		}
+	},
+	{
+		"AR70": {
+			"time": "출석보상",
+			"type": "AR",
+			"star": "3",
+			"img_url": "http://en.gfwiki.com/images/2/2f/AR70.png",
+			"number": "134",
+			"buff_graphic": "⚫⚫🔵\n⚫⚪⚫\n⚫⚫⚫",
+			"buff_description": "사속16%, 명중75%",
+			"skill_name": "살상류탄",
+			"skill_description": "유탄을 발사하여 반경 1.5범위 내의 적들에게 공격력의 11배의 피해를 입힌다.",
+			"illustrator": "NoriZC",
+			"CV": "Nozomi Yamamoto",
+			"gun_name_KR": "AR70"
+		}
+	},
+	{
+		"PP-19": {
+			"time": "구출한정",
+			"type": "SMG",
+			"star": "4",
+			"img_url": "http://en.gfwiki.com/images/f/f0/PP-19.png",
+			"number": "136",
+			"buff_graphic": "⚫⚫⚫\n🔵⚪⚫\n⚫⚫⚫",
+			"buff_description": "화력24%",
+			"skill_name": "수류탄",
+			"skill_description": "수류탄을 투척하여 반경 2.5범위 내의 적들에게 공격력의 6.5배의 피해를 입힌다.",
+			"illustrator": "八才",
+			"CV": "Serizawa Yuu",
+			"gun_name_KR": "PP-19"
+		}
+	},
+	{
+		"6P62": {
+			"time": "출석보상",
+			"type": "AR",
+			"star": "3",
+			"img_url": "http://en.gfwiki.com/images/5/50/6P62.png",
+			"number": "138",
+			"buff_graphic": "⚫⚫⚫\n⚫⚪🔵\n⚫⚫⚫",
+			"buff_description": "화력35%",
+			"skill_name": "기습공격",
+			"skill_description": "자신의 화력을 35% 명중을 100% 상승시킨다. 지속시간 5초",
+			"illustrator": "羽中",
+			"CV": "Marina Inoue",
+			"gun_name_KR": "6P62"
+		}
+	},
+	{
+		"PSM": {
+			"time": "지역한정",
+			"type": "HG",
+			"star": "3",
+			"img_url": "http://en.gfwiki.com/images/d/d8/PSM.png",
+			"number": "140",
+			"buff_graphic": "⚫⚫🔵\n🔵⚪🔵\n⚫⚫🔵",
+			"buff_description": "명중56%, 회피36%",
+			"skill_name": "엄폐지시",
+			"skill_description": "아군 전체 명중을 55% 회피를 28% 상승시킨다. 지속시간 8초",
+			"illustrator": "sola7764",
+			"CV": "Naomi Mukaiyama",
+			"gun_name_KR": "PSM"
+		}
+	},
+	{
+		"Five-seveN": {
+			"time": "큐브플러스한정",
+			"type": "HG",
+			"star": "5",
+			"img_url": "http://en.gfwiki.com/images/8/82/Five-seveN.png",
+			"number": "142",
+			"buff_graphic": "⚫🔵🔵\n⚫⚪⚫\n⚫🔵🔵",
+			"buff_description": "사속30%, 치명20%",
+			"skill_name": "소멸지시",
+			"skill_description": "아군 전체의 사속과 치명타율을 각각 20% 씩 상승시킨다. 지속시간 8초",
+			"illustrator": "水乌龟",
+			"CV": "Akane Fujita",
+			"gun_name_KR": "Five-seveN"
+		}
+	},
+	{
+		"RO635": {
+			"time": "지역보상",
+			"type": "SMG",
+			"star": "5",
+			"img_url": "http://en.gfwiki.com/images/e/e0/RO635.png",
+			"number": "143",
+			"buff_graphic": "🔵🔵⚫\n🔵⚪⚫\n🔵🔵⚫",
+			"buff_description": "사속10%, 명중35%",
+			"skill_name": "정신교란",
+			"skill_description": "적군 전체 화력을 25% 감소시키고 자신의 회피를 70% 상승시킨다. 지속시간 5초",
+			"illustrator": "海猫络合物",
+			"CV": "Ayaka Fukuhara",
+			"gun_name_KR": "RO635"
+		}
+	},
+	{
+		"MT-9": {
+			"time": "출석보상",
+			"type": "SMG",
+			"star": "3",
+			"img_url": "http://en.gfwiki.com/images/3/37/MT-9.png",
+			"number": "144",
+			"buff_graphic": "🔵⚫⚫\n⚫⚪⚫\n🔵⚫⚫",
+			"buff_description": "화력10%, 회피12%",
+			"skill_name": "섬광탄",
+			"skill_description": "섬광탄을 투척하여 반경 2.5범위 내의 적들을 3.5초 동안 기절 상태로 만든다.",
+			"illustrator": "麻将",
+			"CV": "Rui Harinezumi",
+			"gun_name_KR": "MT-9"
+		}
+	},
+	{
+		"M1887": {
+			"time": "저체온증보상",
+			"type": "SG",
+			"star": "5",
+			"img_url": "http://en.gfwiki.com/images/4/4f/M1887.png",
+			"number": "151",
+			"buff_graphic": "⚫⚫⚫\n🔵⚫⚪\n⚫⚫⚫",
+			"buff_description": "화력20%, 명중20%",
+			"skill_name": "피니쉬 어택",
+			"skill_description": "단일 적 타깃에게 1000의 고정 데미지를 입히고 거리 3칸 만큼 적을 밀어낸다.",
+			"illustrator": "REALMBW",
+			"CV": "Hitomi Nabatame",
+			"gun_name_KR": "M1887"
+		}
+	},
+	{
+		"Type 97 Shotgun": {
+			"time": "임무보상",
+			"type": "SG",
+			"star": "4",
+			"img_url": "http://en.gfwiki.com/images/2/27/Type_97_Shotgun.png",
+			"number": "161",
+			"buff_graphic": "🔵⚫⚫\n🔵⚫⚪\n🔵⚫⚫",
+			"buff_description": "화력12%",
+			"skill_name": "화력전개SG",
+			"skill_description": "자신의 화력을 120% 상승시키며 지속시간 동안 동시공격 가능한 타깃수가 5명으로 늘어난다.(슬러그 탄의 효과와 중첩되지 않는다.) 지속시간8초",
+			"illustrator": "河马",
+			"CV": "Yuka Ootsubo",
+			"gun_name_KR": "97식 산탄총"
+		}
+	},
+	{
+		"UMP40": {
+			"time": "딥다이브 한정",
+			"type": "SMG",
+			"star": "4",
+			"img_url": "https://cdn.discordapp.com/attachments/323741969883070476/345121898973364224/102.png",
+			"number": "102",
+			"buff_graphic": "⚫🔵🔵\n⚫⚪⚫\n⚫🔵🔵",
+			"buff_description": "치명500%",
+			"skill_name": "과중부하",
+			"skill_description": "패시브 효과 : 스킬 미발동 시 매 2초마다 회피 상승 10% 화력 감소 5% (최대 5회 중첩)\n액티브 효과 : 누적된 패시브 효과를 초기화 한 뒤매 2초마다 화력 상승 30% 회피감소 25% (최대 5회 중첩)。",
+			"illustrator": "Renatus.Z",
+			"CV": "上间江望",
+			"gun_name_KR": "UMP40"
+		}
+	},
+	{
+		"M12": {
+			"time": "출석보상",
+			"type": "SNG",
+			"star": "3",
+			"img_url": "https://cdn.discordapp.com/attachments/366948859580121088/367653397253455872/191.png",
+			"number": "191",
+			"buff_graphic": "🔵⚫⚫\n🔵⚪⚫\n🔵⚫⚫",
+			"buff_description": "화력8%, 회피8%",
+			"skill_name": "소이탄",
+			"skill_description": "소이탄을 투척하여 반경 1.5범위 내의 적들에게 공격력의 6배의 폭발 대미지와 함께 5초 동안 매 0.33초당 공격력의 1배의 화상 도트 대미지를 지속적으로 입힌다.",
+			"illustrator": "猫头神",
+			"CV": "Akane Hanazawa",
+			"gun_name_KR": "M12"
+		}
+	}
+]
